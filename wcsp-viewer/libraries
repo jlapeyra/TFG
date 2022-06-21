@@ -1,0 +1,10 @@
+argparse
+statistics
+numpy
+pandas
+fpdf
+pdfrw
+networkx
+matplotlib
+warnings
+os

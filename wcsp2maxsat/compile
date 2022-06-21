@@ -1,0 +1,1 @@
+g++ wcsp2sat$1.cc -std=c++11 -I/usr/local/include -L/usr/local/lib -lboost_program_options -o wcsp2sat$1.x

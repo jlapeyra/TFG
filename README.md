@@ -1,1 +1,3 @@
 # TFG
+
+Falta: readme, experiments
