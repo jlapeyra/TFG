@@ -1,0 +1,6 @@
+lb 4532 ub 131424 before adjustment
+1005 unsorted cost functions
+lb 0 ub 126892 after adjustment
+costs ready
+ub 119259 after 2nd adjustment
+685 variables 1843 functions 4532 lb, 119259 ub

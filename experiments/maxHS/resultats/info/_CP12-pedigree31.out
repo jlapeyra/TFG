@@ -1,0 +1,325 @@
+c MaxHS 4.0.0
+c Instance: ../../../instances_wcnf/_CP12-pedigree31.wcnf
+c Parameter Settings
+c ============================================
+c  A: General MaxHS Options
+c   abstract-cores2greedy = false, bvardecisions = false, fbeq = false, printOptions = true,
+c   printBstSoln = false, printSoln = false, printSoln-new-format = true, version = false,
+c   tolerance = 1e-06, coretype = 0, cpu-lim = 2147483647, mem-lim = 2147483647,
+c   verb = 1,
+c 
+c  B: MaxHS with abstractions Options
+c   abstract = true, abstract-max-ave-size = 100, abstract-gap = 5, exhaust-cpu-lim-all-clauses = 15,
+c   exhaust-cpu-lim = 60, abstract-min-cores = 2, abstract-max_core_size = 1000, abstract-minsize = 2,
+c   cplex-greedy = 0, abstract-greedy_cores = 2, abstract-cplex_cores = 2,
+c 
+c  C: Disjoint Phase Options
+c   dsjnt = true, dsjnt-cpu-lim = 30, dsjnt-mus-cpu-lim = 10,
+c 
+c  D: Seeding Options
+c   seed-learnts = true, seed_cpu_before_cplex = 200, seedtype = 3, seed-max = 524288,
+c   seed-all-limit = 512,
+c 
+c  E: Sequence of Sat Options
+c   lp-harden = true, find-forced = false, improve-model = false, use-ub-mipstart = true,
+c   max-cpu-improve-model = 10, max-cpu-before-cplex = 200, relaxfrac = 0.3, optcores-cpu-lim = 10,
+c   abstract-assumps = 1, nonopt = 3, frac-rampup-start = 128, frac-rampup-end = 512,
+c   max-cores-before-cplex = 300, sort-assumps = 0, max-size-improve-model = -1,
+c 
+c  F: Core Minimization Options
+c   mus-min-red = 0.1, mus-cpu-lim = 2.5, mintype = 1, mverb = 0,
+c  
+c  G: CPLEX Options
+c   cplex-tune = false, cplex-min-ticks = 4, cplex-threads = 1,
+c 
+c  H: CPLEX Solution Pool and Populate Options
+c   cplextime-pop-cpu-lim = 7.5, cplex-solnpool-cap = 256, cplex-pop-nsoln = 256, cplex-populate = 1,
+c   ub-conflicts = 1,
+c 
+c  I: Preprocessing Options
+c   wcnf-harden = true, preprocess = true, wcnf-eqs = true, simplify-only = false,
+c   mx-seed-mxes = true, mx-constrain-hs = true, mx-sat-prepro = false, wcnf-units = true,
+c   mx-cpu-lim = 15, mx-find-mxes = 2, mx-mem-lim = 1536,
+c 
+c  J: Debugging Options
+c   dump-prepro = false, cplex-wrt-model = false, cplex-output = false, cplex-data-chk = true,
+c  
+c  J: MINISAT solver Options
+c   luby = true, rnd-init = false, rinc = 2, gc-frac = 0.2,
+c   var-decay = 0.95, cla-decay = 0.999, rnd-freq = 0, rnd-seed = 9.16483e+07,
+c   min-learnts = 0, sverb = 0, firstReduceDB = 2000, incReduceDB = 300,
+c   specialIncReduceDB = 1000, rfirst = 100, phase-saving = 2, ccmin-mode = 2,
+c  
+c  K: MINISAT simplifier Options
+c   elim = true, rcheck = false, asymm = false, simp-gc-frac = 0.5,
+c   grow = 0, sub-lim = 1000, cl-lim = 20
+c ============================================
+c
+c Instance: ../../../instances_wcnf/_CP12-pedigree31.wcnf
+c Dimacs Vars: 1200
+c Dimacs Clauses: 4675
+c HARD: #Clauses = 3589, Total Lits = 9711, Ave Len = 2.70577 #units = 0
+c SOFT: #Clauses = 1086, Total Lits = 1945, Ave Len = 1.79098
+c Total Soft Clause Weight (+ basecost): 603318 (+ 0), Dimacs Top = 138893
+c SOFT%: 23.2299%
+c #distinct weights: 116, mean = 555.541, std. dev = 7199.71, min = 1, max = 137267
+c Total Clauses: 4675
+c Parse time: 0.000587
+c Wcnf Space Required: 0MB
+c ================================
+c transitionWts = [ ] (0)
+c WCNF hardened 0 soft clauses
+c WCNF units: found 0 units
+c WCNF SCCs: found 3 strongly connected components
+c WCNF removed: 9 variables
+c WCNF removed: 12 hard clauses
+c WCNF removed: 24 lits from hard clauses
+c WCNF removed: 0 soft clauses
+c WCNF removed: 0 lits from softs clauses
+c WCNF found 0 redundant hards and 0 duplicate or subsumed softs
+c WCNF mutexes: #mutexes found = 0
+c WCNF mx finder used 1086 calls to UP engine
+c WCNF mutexes: original #softs 1086 #softs after mx-transforms 1086
+c WCNF mutexes: reduction in softs 0
+c After WCNF Simplification
+c HARD: #Clauses = 3577, Total Lits = 9687, Ave Len = 2.70814
+c SOFT: #Clauses = 1086, Total Lits = 1945, Ave Len = 1.79098
+c Total Soft Clause Weight (+ basecost): 603318 (+ 0), Dimacs Top = 138893
+c #distinct weights: 116, mean = 555.541, std. dev = 7199.71, min = 1, max = 137267
+c Total Clauses: 4663
+c Wcnf Space Required: 0.055216MB
+c ================================
+c Muser: Vars of hards = 1180 vars to be frozen = 686
+c Muser Preprocess eliminated 371 variables. took 0.002519 sec.
+c Using IBM CPLEX version 12.10.0.0 under IBM's Academic Initiative licencing program
+c Total used vars = 1191 vars to be frozen = 320
+c MiniSat Preprocess eliminated 482 variables. took 0.003583 sec.
+c Before solving sat solver has 2535 clauses and 0 learnts
+c Init Bnds: SAT Time 0.000292
+c New UB found 9032
+c Elapsed time 0.005892
+c Init Bnds: LB = 0 UB = 9032
+c Init Bnds: Forced 0 literals.
+c Init Bnds: after sat solver solver has 2535 clauses and 10 learnts
+c EqSeed: found 237 seedable constraints from input clauses
+c EqSeed: 0 cores 209 non-cores 28 mixed-cores 0 ordinary clauses
+c EqSeed: found 1 seedable constraints from  learnts
+c EqSeed: 1 cores 0 non-cores 0 mixed-cores 0 ordinary clauses
+c EqSeed: #seeded constraints 238
+c EqSeed: cores            1 Ave length 39
+c EqSeed: non-cores        209 Ave length 2
+c EqSeed: mixed cores      28 Ave length 3.321428571
+c EqSeed: ordinary clauses 0 Ave length 0
+c Disjoint Phase
+c New UB found 7290
+c Elapsed time 0.03313
+c Dsjnt: #Cores 20 with total weight 796 LB 796 UB 7290
+c Dsjnt: Avg Core Size 14.35
+c Dsjnt: Time 0.026952
+c **********Iter: 0 Elapsed Time = 0.033145
+c CPLEX: += 258 Clauses. Average size =3.244186047
+c tryharden: softs hardened              1
+c tryharden: softs not in cplex hardened 2
+c Add to CPLEX 3 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 796 and lower bound of 796 time = 0.001303
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 796 UB = 7290 gap = 6494
+c LP bound delta = 0 < 5 abstracting
+c Computing an abstraction with 21 new cores
+c added 2000 new edges. Abstracting
+c extractCommunities #nodes =272
+c Cluster Iter 1. 93 clusters (mod 0.655198375)
+c 25 new totalizers (out of 93 ), ave. size = 8.16 ave. true outs 0.08
+c extractCommunities #nodes =93
+c 1. clustering complete
+c finding conflicts from cplex solution
+c Add to muser 5 newly forced vars.
+c New UB found 3626
+c Elapsed time 0.066439
+c Cplex abstract solution yielded 11 new conflicts
+c finding conflicts from greedy
+c Add to greedysolver 3 Forced bvars.
+c New UB found 3109
+c Elapsed time 0.08694
+c New UB found 2853
+c Elapsed time 0.330305
+c New UB found 2584
+c Elapsed time 0.34494
+c New UB found 2348
+c Elapsed time 0.620644
+c New UB found 2258
+c Elapsed time 1.163825
+c Greedy: iters=47 concrete conflicts=254 abstract conflicts=35
+c **********Iter: 1 Elapsed Time = 1.176638
+c Add to CPLEX 2 Forced bvars. 2 are forced totalizer outputs
+c CPLEX: += 300 Clauses. Average size =21.29666667
+c tryharden: softs hardened              2
+c tryharden: softs not in cplex hardened 4
+c Add to CPLEX 6 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 1765 and lower bound of 1765 time = 0.908309
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 1765 UB = 2258 gap = 493
+c finding conflicts from cplex solution
+c Add to satsolver 2 forced negated bvars.
+c Add to muser 8 newly forced vars.
+c Cplex abstract solution yielded 3 new conflicts
+c finding conflicts from greedy
+c Add to greedysolver 8 Forced bvars.
+c New UB found 2106
+c Elapsed time 2.475732
+c Greedy: iters=74 concrete conflicts=230 abstract conflicts=67
+c **********Iter: 2 Elapsed Time = 3.70809
+c Add to CPLEX 2 Forced bvars. 0 are forced totalizer outputs
+c CPLEX: += 300 Clauses. Average size =26.42666667
+c tryharden: softs hardened              7
+c tryharden: softs not in cplex hardened 2
+c Add to CPLEX 9 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 1861 and lower bound of 1861 time = 1.394755
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 1861 UB = 2106 gap = 245
+c finding conflicts from cplex solution
+c Add to satsolver 3 forced negated bvars.
+c Add to muser 12 newly forced vars.
+c Cplex abstract solution yielded 1 new conflicts
+c finding conflicts from greedy
+c Add to greedysolver 12 Forced bvars.
+c New UB found 1974
+c Elapsed time 5.428966
+c Greedy: iters=69 concrete conflicts=153 abstract conflicts=55
+c **********Iter: 3 Elapsed Time = 6.433364
+c Add to CPLEX 3 Forced bvars. 0 are forced totalizer outputs
+c CPLEX: += 209 Clauses. Average size =30.38277512
+c tryharden: softs hardened              11
+c tryharden: softs not in cplex hardened 5
+c Add to CPLEX 16 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 1899 and lower bound of 1899 time = 2.318027
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 1899 UB = 1974 gap = 75
+c finding conflicts from cplex solution
+c Add to satsolver 8 forced negated bvars.
+c Add to muser 24 newly forced vars.
+c Cplex abstract solution yielded 1 new conflicts
+c finding conflicts from greedy
+c Add to greedysolver 24 Forced bvars.
+c Greedy: iters=1 concrete conflicts=0 abstract conflicts=0
+c finding conflicts from cplex populated solutions
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c New UB found 1944
+c Elapsed time 11.66532
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c New UB found 1923
+c Elapsed time 11.735019
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex concrete solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex concrete solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 2 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c Cplex abstract solution yielded 1 new conflicts
+c populate found 50 conflicts
+c **********Iter: 4 Elapsed Time = 11.980708
+c Add to CPLEX 8 Forced bvars. 0 are forced totalizer outputs
+c CPLEX: += 51 Clauses. Average size =36.84313725
+c tryharden: softs hardened              33
+c tryharden: softs not in cplex hardened 6
+c Add to CPLEX 39 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 1909 and lower bound of 1909 time = 3.49168
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 1909 UB = 1923 gap = 14
+c LP bound delta = 0.219269103 < 5 abstracting
+c Computing an abstraction with 860 new cores
+c added 129678 new edges. Abstracting
+c extractCommunities #nodes =378
+c Cluster Iter 1. 73 clusters (mod 0.2099680246)
+c 48 new totalizers (out of 73 ), ave. size = 9.979166667 ave. true outs 0.1041666667
+c extractCommunities #nodes =73
+c Cluster Iter 2. 65 clusters (mod 0.01147083341)
+c 8 new totalizers (out of 65 ), ave. size = 29.125 ave. true outs 0.375
+c extractCommunities #nodes =65
+c Cluster Iter 3. 56 clusters (mod 0.1757501994)
+c large cluster: 235
+c 5 new totalizers (out of 56 ), ave. size = 73.8 ave. true outs 0.2
+c extractCommunities #nodes =56
+c Cluster Iter 4. 55 clusters (mod 0.0797053914)
+c large cluster: 352
+c 1 new totalizers (out of 55 ), ave. size = 352 ave. true outs 0
+c extractCommunities #nodes =55
+c 4. clustering complete
+c finding conflicts from cplex solution
+c Add to satsolver 7 forced negated bvars.
+c Add to muser 59 newly forced vars.
+c Add to satSolver 5 newly forced from muser.
+c Add to satsolver 1 forced negated bvars.
+c Cplex abstract solution yielded 1 new conflicts
+c Add to muser 1 newly forced vars.
+c Cplex concrete solution yielded 1 new conflicts
+c finding conflicts from greedy
+c Add to greedysolver 49 Forced bvars.
+c Greedy: iters=29 concrete conflicts=55 abstract conflicts=3
+c **********Iter: 5 Elapsed Time = 16.119641
+c Add to CPLEX 19 Forced bvars. 9 are forced totalizer outputs
+c CPLEX: += 60 Clauses. Average size =30.35
+c tryharden: softs hardened              2
+c Add to CPLEX 2 Forced bvars. 0 are forced totalizer outputs
+c CPLEX returns incumbent with cost 1923 and lower bound of 1923 time = 6.357634
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 1923 UB = 1923 gap = 0
+c Solved by LB >= UB.
+o 1923
+s OPTIMUM FOUND
+c Solved: Number of falsified softs = 30
+c SAT: #calls 1641
+c SAT: Total time 4.990205
+c SAT: #muser calls 946 (100 % successful)
+c SAT: Minimize time 4.799195 (96.17230154%)
+c SAT: Avg constraint minimization 2.217670683
+c GREEDY: #calls 220
+c GREEDY: Total time 0.062101
+c CPLEX: #calls 6
+c CPLEX: Total time 14.471708
+c CPLEX: #constraints 1245
+c CPLEX: Avg constraint size 20.29799197
+c CPLEX: #non-core constraints 304
+c CPLEX: Ave non-core size 1.901315789
+c LP-Bounds: Total time 0.02926
+c LP-Bounds: #calls 11
+c LP-Bounds: Forced 75 variables
+c   hardned softs:              56
+c   hardned softs not in cplex: 19
+c MEM MB: 51
+c CPU: 22.492363

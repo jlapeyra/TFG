@@ -1,0 +1,33 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14F-1UBI.13p.9aa.usingEref_self_digit2.wcsp
+Read 13 variables, with 44 values at most, and 92 cost functions, with maximum arity 2.
+Cost function decomposition time : 1.1e-05 seconds.
+Preprocessing time: 0.026661 seconds.
+13 unassigned variables, 470 values in all current domains (med. size:36, max size:44) and 78 non-unary cost functions (med. degree:12)
+Initial lower and upper bounds: [159214, 4257520[ 96.260%
+c 2097152 Bytes allocated for long long stack.
+New solution: 159617 (0 backtracks, 26 nodes, depth 27)
+Optimality gap: [159217, 159617[ 0.251 % (27 backtracks, 59 nodes)
+Optimality gap: [159232, 159617[ 0.241 % (33 backtracks, 74 nodes)
+New solution: 159604 (33 backtracks, 81 nodes, depth 4)
+New solution: 159597 (40 backtracks, 104 nodes, depth 7)
+New solution: 159564 (42 backtracks, 107 nodes, depth 6)
+Optimality gap: [159241, 159564[ 0.202 % (47 backtracks, 112 nodes)
+New solution: 159546 (47 backtracks, 125 nodes, depth 8)
+Optimality gap: [159268, 159546[ 0.174 % (58 backtracks, 140 nodes)
+Optimality gap: [159298, 159546[ 0.155 % (62 backtracks, 151 nodes)
+New solution: 159522 (69 backtracks, 178 nodes, depth 6)
+Optimality gap: [159326, 159522[ 0.123 % (76 backtracks, 187 nodes)
+Optimality gap: [159344, 159522[ 0.112 % (80 backtracks, 200 nodes)
+Optimality gap: [159347, 159522[ 0.110 % (83 backtracks, 212 nodes)
+Optimality gap: [159372, 159522[ 0.094 % (85 backtracks, 223 nodes)
+Optimality gap: [159386, 159522[ 0.085 % (86 backtracks, 234 nodes)
+Optimality gap: [159390, 159522[ 0.083 % (87 backtracks, 240 nodes)
+Optimality gap: [159407, 159522[ 0.072 % (89 backtracks, 248 nodes)
+Optimality gap: [159417, 159522[ 0.066 % (91 backtracks, 261 nodes)
+Optimality gap: [159435, 159522[ 0.055 % (91 backtracks, 271 nodes)
+Optimality gap: [159438, 159522[ 0.053 % (91 backtracks, 276 nodes)
+Optimality gap: [159522, 159522[ 0.000 % (92 backtracks, 291 nodes)
+Node redundancy during HBFS: 35.739 %
+Optimum: 159522 in 92 backtracks and 291 nodes ( 173 removals by DEE) and 0.079 seconds.
+end.

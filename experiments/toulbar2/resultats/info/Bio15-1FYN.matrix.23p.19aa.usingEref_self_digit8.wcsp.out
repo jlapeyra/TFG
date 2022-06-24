@@ -1,0 +1,29 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/Bio13-1FYN.matrix.23p.19aa.usingEref_self_digit8.wcsp
+Read 21 variables, with 184 values at most, and 232 cost functions, with maximum arity 2.
+Cost function decomposition time : 3.4e-05 seconds.
+Preprocessing time: 0.305137 seconds.
+21 unassigned variables, 1805 values in all current domains (med. size:125, max size:184) and 210 non-unary cost functions (med. degree:20)
+Initial lower and upper bounds: [1183443812014, 512409557603043100[ 100.000%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+c 16777216 Bytes allocated for long long stack.
+c 33554432 Bytes allocated for long long stack.
+New solution: 1184332463479 (0 backtracks, 40 nodes, depth 41)
+Optimality gap: [1183444055991, 1184332463479[ 0.075 % (27 backtracks, 67 nodes)
+Optimality gap: [1183472911151, 1184332463479[ 0.073 % (36 backtracks, 86 nodes)
+New solution: 1183565434657 (36 backtracks, 114 nodes, depth 26)
+Optimality gap: [1183474696309, 1183565434657[ 0.008 % (56 backtracks, 134 nodes)
+Optimality gap: [1183496304431, 1183565434657[ 0.006 % (59 backtracks, 145 nodes)
+Optimality gap: [1183499336887, 1183565434657[ 0.006 % (59 backtracks, 155 nodes)
+Optimality gap: [1183502375690, 1183565434657[ 0.005 % (60 backtracks, 165 nodes)
+Optimality gap: [1183510278168, 1183565434657[ 0.005 % (60 backtracks, 171 nodes)
+Optimality gap: [1183535055547, 1183565434657[ 0.003 % (60 backtracks, 175 nodes)
+Optimality gap: [1183554106686, 1183565434657[ 0.001 % (60 backtracks, 182 nodes)
+Optimality gap: [1183559914935, 1183565434657[ 0.000 % (60 backtracks, 191 nodes)
+New solution: 1183559914935 (60 backtracks, 196 nodes, depth 1)
+Optimality gap: [1183559914935, 1183559914935[ 0.000 % (60 backtracks, 196 nodes)
+Node redundancy during HBFS: 29.592 %
+Optimum: 1183559914935 in 60 backtracks and 196 nodes ( 2022 removals by DEE) and 0.868 seconds.
+end.

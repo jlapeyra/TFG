@@ -1,0 +1,7 @@
+lb 2349 ub 114318 before adjustment
+674 unsorted cost functions
+lb 0 ub 111969 after adjustment
+costs ready
+ub 70595 after 2nd adjustment
+464 variables 1178 functions 2349 lb, 70595 ub
+Iteration 0  HV  cores 1 1 1  time 0.016668 0 0.001723

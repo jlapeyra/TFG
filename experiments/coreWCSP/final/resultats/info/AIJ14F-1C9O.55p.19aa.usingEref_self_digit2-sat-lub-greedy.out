@@ -1,0 +1,6 @@
+lb 7959487 ub 103511264 before adjustment
+lb 0 ub 95551777 after adjustment
+costs ready
+55 variables 1540 functions 7959487 lb, 95551777 ub
+Iteration 0  HV  cores 73 73 73  time 1822.67 0 0
+Iteration 1  HV  cores 147 147 74  time 3197.9 0 0

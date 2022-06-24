@@ -1,0 +1,69 @@
+lb 5191 ub 126588 before adjustment
+1058 unsorted cost functions
+lb 0 ub 121397 after adjustment
+costs ready
+ub 99740 after 2nd adjustment
+717 variables 1886 functions 5191 lb, 99740 ub
+Iteration 0  lb 6018 ub 104931  cores 17 17 17  time 0.008153 0.002473
+Iteration 1  lb 6447 ub 104931  cores 28 28 11  time 0.013074 0.006656
+Iteration 2  lb 6600 ub 104931  cores 36 36 8  time 0.016646 0.011709
+Iteration 3  lb 6676 ub 104931  cores 45 45 9  time 0.020723 0.01612
+Iteration 4  lb 6811 ub 104931  cores 52 51 7  time 0.02404 0.021849
+Iteration 5  lb 6877 ub 104931  cores 57 55 5  time 0.026317 0.028299
+Iteration 6  lb 6877 ub 104931  cores 63 61 6  time 0.02906 0.034557
+Iteration 7  lb 6877 ub 104931  cores 67 65 4  time 0.030928 0.042077
+Iteration 8  lb 6877 ub 104931  cores 69 67 2  time 0.032221 0.054064
+Iteration 9  lb 6902 ub 104931  cores 72 70 3  time 0.033841 0.069592
+Iteration 10  lb 6902 ub 104931  cores 73 71 1  time 0.034564 0.086487
+Iteration 11  lb 6902 ub 104931  cores 75 73 2  time 0.035866 0.099458
+Iteration 12  lb 6902 ub 104931  cores 77 75 2  time 0.036971 0.114481
+Iteration 13  lb 6902 ub 104931  cores 78 76 1  time 0.037693 0.12885
+Iteration 14  lb 6902 ub 104931  cores 80 78 2  time 0.03897 0.145573
+Iteration 15  lb 6902 ub 104931  cores 83 81 3  time 0.040753 0.158578
+Iteration 16  lb 6902 ub 104931  cores 85 83 2  time 0.042041 0.173645
+Iteration 17  lb 6902 ub 104931  cores 87 85 2  time 0.04326 0.188171
+Iteration 18  lb 6902 ub 104931  cores 88 86 1  time 0.044018 0.205155
+Iteration 19  lb 6903 ub 104931  cores 91 88 3  time 0.045612 0.225195
+Iteration 20  lb 6903 ub 104931  cores 93 90 2  time 0.046849 0.243454
+Iteration 21  lb 6906 ub 104931  cores 95 92 2  time 0.048049 0.260023
+Iteration 22  lb 6907 ub 104931  cores 97 94 2  time 0.049221 0.274322
+Iteration 23  lb 6907 ub 104931  cores 99 96 2  time 0.050474 0.292598
+Iteration 24  lb 6907 ub 104931  cores 101 98 2  time 0.052212 0.308328
+Iteration 25  lb 6907 ub 104931  cores 102 99 1  time 0.052977 0.324892
+Iteration 26  lb 6953 ub 104931  cores 105 102 3  time 0.054881 0.344578
+Iteration 27  lb 6964 ub 104931  cores 108 105 3  time 0.056553 0.36303
+Iteration 28  lb 6977 ub 104931  cores 110 107 2  time 0.057715 0.382979
+Iteration 29  lb 6979 ub 104931  cores 114 111 4  time 0.059701 0.422607
+Iteration 30  lb 6980 ub 104931  cores 116 113 2  time 0.060928 0.445445
+Iteration 31  lb 6982 ub 104931  cores 119 116 3  time 0.062545 0.465061
+Iteration 32  lb 6982 ub 104931  cores 122 119 3  time 0.064116 0.504538
+Iteration 33  lb 6982 ub 104931  cores 124 121 2  time 0.065288 0.531268
+Iteration 34  lb 6982 ub 104931  cores 126 123 2  time 0.066498 0.555995
+Iteration 35  lb 6982 ub 104931  cores 128 125 2  time 0.067654 0.580633
+Iteration 36  lb 6985 ub 104931  cores 130 127 2  time 0.068802 0.606906
+Iteration 37  lb 6987 ub 104931  cores 132 129 2  time 0.069906 0.663636
+Iteration 38  lb 6987 ub 104931  cores 134 131 2  time 0.071035 0.704027
+Iteration 39  lb 6988 ub 104931  cores 138 135 4  time 0.072899 0.737298
+Iteration 40  lb 6992 ub 104931  cores 141 138 3  time 0.074652 0.768423
+Iteration 41  lb 7006 ub 104931  cores 144 141 3  time 0.076183 0.840051
+Iteration 42  lb 7009 ub 104931  cores 147 144 3  time 0.077763 0.904701
+Iteration 43  lb 7009 ub 104931  cores 150 147 3  time 0.079383 0.984772
+Iteration 44  lb 7010 ub 104931  cores 153 150 3  time 0.081181 1.02484
+Iteration 45  lb 7010 ub 104931  cores 155 152 2  time 0.08238 1.08979
+Iteration 46  lb 7013 ub 104931  cores 157 154 2  time 0.08359 1.16711
+Iteration 47  lb 7013 ub 104931  cores 160 157 3  time 0.085106 1.25063
+Iteration 48  lb 7015 ub 104931  cores 162 159 2  time 0.086401 1.35675
+Iteration 49  lb 7016 ub 104931  cores 165 162 3  time 0.087988 1.42333
+Iteration 50  lb 7017 ub 104931  cores 168 165 3  time 0.089547 1.50669
+Iteration 51  lb 7017 ub 104931  cores 170 167 2  time 0.090732 1.59084
+Iteration 52  lb 7017 ub 104931  cores 173 170 3  time 0.092239 1.6613
+Iteration 53  lb 7017 ub 104931  cores 176 171 3  time 0.094014 1.72644
+Iteration 54  lb 7019 ub 104931  cores 178 173 2  time 0.095112 1.7987
+Iteration 55  lb 7019 ub 104931  cores 179 174 1  time 0.095945 1.89707
+Iteration 56  lb 7019 ub 104931  cores 180 175 1  time 0.096739 1.96134
+Iteration 57  lb 7020 ub 104931  cores 182 177 2  time 0.097921 2.08012
+Iteration 58  lb 7020 ub 104931  cores 183 178 1  time 0.098663 2.15556
+Iteration 59  lb 7021 ub 104931  cores 184 179 1  time 0.099427 2.23052
+Optimal value: 7021
+Real time: 2.36124
+CPU time: 5.17369

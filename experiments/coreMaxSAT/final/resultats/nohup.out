@@ -1,0 +1,624 @@
+AIJ14F-1C9O.55p.19aa.usingEref_self_digit2
+lb hitman
+./test.sh: line 27: 2250273 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2250340 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2250428 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2250486 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+AIJ14F-1CM1.17p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1HZ5.12p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1HZ5.12p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1PGB.11p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1PGB.11p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1PIN.28p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1UBI.13p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-1UBI.13p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-2DHC.14p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-2PCY.18p.8aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14F-2TRX.11p.8aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1BK2.matrix.24p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1BRS.matrix.44p.20aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1C9O.matrix.43p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CDL.matrix.40p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CM1.matrix.42p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CSE.matrix.97p.18aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CSK.matrix.30p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CSP.matrix.30p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1CTF.matrix.39p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1DKT.matrix.46p.18aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1ENH.matrix.36p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1FNA.matrix.38p.8aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1FYN.matrix.23p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1GVP.matrix.52p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1HNG.matrix.85p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1L63.matrix.83p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1LZ1.matrix.59p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1MJC.matrix.28p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1NXB.matrix.34p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1PGB.matrix.31p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1PIN.matrix.28p.20aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1POH.matrix.46p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1RIS.matrix.56p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1SHF.matrix.30p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1SHG.matrix.28p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1STN.matrix.120p.18aa.usingEref_self_digit2
+lb hitman
+./test.sh: line 27: 2463401 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2464540 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2465129 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2465812 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+AIJ14L-1TEN.matrix.39p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-1UBI.matrix.40p.17aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-2CI2.matrix.51p.18aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-2DRI.matrix.37p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-2PCY.matrix.46p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-2RN2.matrix.69p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-2TRX.matrix.61p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-3CHY.matrix.74p.9aa.usingEref_self_digit2
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+AIJ14L-3HHR.matrix.115p.19aa.usingEref_self_digit2
+lb hitman
+lb cplex
+./test.sh: line 27: 2516578 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+lub cplex
+Bio13-1BK2.matrix.24p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1BRS.matrix.44p.20aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2527729 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2529333 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1C9O.matrix.43p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2532649 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1CDL.matrix.40p.19aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2533518 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+lub cplex
+Bio13-1CM1.matrix.42p.19aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2536389 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2537995 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1CSE.matrix.97p.18aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1CSK.matrix.30p.9aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1CSP.matrix.30p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2563897 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1CTF.matrix.39p.9aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2571966 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1DKT.matrix.46p.18aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2575642 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1ENH.matrix.36p.17aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2576409 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+lub cplex
+Bio13-1FNA.matrix.38p.8aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2590712 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1FYN.matrix.23p.19aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2592508 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2594359 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1GVP.matrix.52p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1HNG.matrix.85p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2601092 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1L63.matrix.83p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2606370 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1LZ1.matrix.59p.9aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2613396 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1MJC.matrix.28p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1NXB.matrix.34p.9aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1PGB.matrix.31p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1PIN.matrix.28p.20aa.usingEref_self_digit8
+lb hitman
+./test.sh: line 27: 2619036 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2620928 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+Bio13-1POH.matrix.46p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1RIS.matrix.56p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1SHF.matrix.30p.9aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+Bio13-1SHG.matrix.28p.17aa.usingEref_self_digit8
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2647907 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+UAI17-1dvo-full
+lb hitman
+./test.sh: line 27: 2649170 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2649235 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2649295 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2649354 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-1f00-full
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+UAI17-1is1-full
+lb hitman
+lb cplex
+./test.sh: line 27: 2652808 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+lub cplex
+UAI17-1ng2-full
+lb hitman
+./test.sh: line 27: 2654138 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2654765 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2654869 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-1xaw-full
+lb hitman
+./test.sh: line 27: 2654958 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2655002 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2655041 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2655085 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-1ytq-full
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2656740 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2656782 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-1yz7-full
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+./test.sh: line 27: 2658580 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-2af5-full
+lb hitman
+./test.sh: line 27: 2659368 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+lub hitman
+./test.sh: line 27: 2660517 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2660652 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-2gee-full
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+UAI17-2x8x-full
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+UAI17-3e3v-full
+lb hitman
+./test.sh: line 27: 2667947 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2668118 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2668312 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+UAI17-3lf9-full
+lb hitman
+./test.sh: line 27: 2669869 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2669923 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2669973 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2670021 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-3r8q-full
+lb hitman
+lb cplex
+./test.sh: line 27: 2670810 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2670896 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+UAI17-3sz7-full
+lb hitman
+./test.sh: line 27: 2671870 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2671909 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2671955 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2672013 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-4bxp-full
+lb hitman
+./test.sh: line 27: 2672062 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2672222 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+lub cplex
+UAI17-4uos-full
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+UAI17-5dbl-full
+lb hitman
+./test.sh: line 27: 2677032 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2677077 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2677121 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2677174 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-5e0z-full
+lb hitman
+./test.sh: line 27: 2677216 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2677270 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2677322 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2677368 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-5e10-full
+lb hitman
+./test.sh: line 27: 2677433 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2677495 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2677549 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2677611 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-5eqz-full
+lb hitman
+./test.sh: line 27: 2677666 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lb cplex
+./test.sh: line 27: 2677728 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub hitman
+./test.sh: line 27: 2677799 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2677862 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+UAI17-5jdd-full
+lb hitman
+lb cplex
+lub hitman
+./test.sh: line 27: 2680011 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+lub cplex
+./test.sh: line 27: 2680564 Killed                  timeout $timeout python3 $solver $file -a $alg -s $hit > $out 2> $err
+CP13-404
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-503
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-505
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree13
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree18
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree20
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree25
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree30
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree31
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree33
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree39
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree41
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree44
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree51
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree7
+lb hitman
+lb cplex
+lub hitman
+lub cplex
+CP13-pedigree9
+lb hitman
+lb cplex
+lub hitman
+lub cplex

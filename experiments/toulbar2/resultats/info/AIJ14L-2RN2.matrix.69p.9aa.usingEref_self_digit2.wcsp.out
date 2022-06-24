@@ -1,0 +1,30 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-2RN2.matrix.69p.9aa.usingEref_self_digit2.wcsp
+Read 52 variables, with 43 values at most, and 1029 cost functions, with maximum arity 2.
+Cost function decomposition time : 0.000239 seconds.
+Preprocessing time: 0.071103 seconds.
+52 unassigned variables, 779 values in all current domains (med. size:7, max size:43) and 976 non-unary cost functions (med. degree:38)
+Initial lower and upper bounds: [8909714, 18768617[ 52.529%
+c 2097152 Bytes allocated for long long stack.
+New solution: 8910015 (0 backtracks, 58 nodes, depth 59)
+Optimality gap: [8909736, 8910015[ 0.003 % (40 backtracks, 98 nodes)
+New solution: 8909915 (40 backtracks, 122 nodes, depth 23)
+Optimality gap: [8909771, 8909915[ 0.002 % (59 backtracks, 141 nodes)
+Optimality gap: [8909787, 8909915[ 0.001 % (65 backtracks, 156 nodes)
+Optimality gap: [8909793, 8909915[ 0.001 % (66 backtracks, 170 nodes)
+New solution: 8909913 (66 backtracks, 181 nodes, depth 2)
+Optimality gap: [8909803, 8909913[ 0.001 % (67 backtracks, 182 nodes)
+New solution: 8909892 (67 backtracks, 188 nodes, depth 3)
+Optimality gap: [8909814, 8909892[ 0.001 % (69 backtracks, 190 nodes)
+Optimality gap: [8909836, 8909892[ 0.001 % (71 backtracks, 201 nodes)
+Optimality gap: [8909849, 8909892[ 0.000 % (71 backtracks, 207 nodes)
+Optimality gap: [8909852, 8909892[ 0.000 % (71 backtracks, 212 nodes)
+Optimality gap: [8909859, 8909892[ 0.000 % (72 backtracks, 222 nodes)
+Optimality gap: [8909866, 8909892[ 0.000 % (74 backtracks, 237 nodes)
+Optimality gap: [8909869, 8909892[ 0.000 % (75 backtracks, 243 nodes)
+Optimality gap: [8909886, 8909892[ 0.000 % (80 backtracks, 268 nodes)
+Optimality gap: [8909887, 8909892[ 0.000 % (80 backtracks, 273 nodes)
+Optimality gap: [8909892, 8909892[ 0.000 % (80 backtracks, 277 nodes)
+Node redundancy during HBFS: 34.657 %
+Optimum: 8909892 in 80 backtracks and 277 nodes ( 1155 removals by DEE) and 0.140 seconds.
+end.

@@ -1,0 +1,27 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-1TEN.matrix.39p.9aa.usingEref_self_digit2.wcsp
+Read 21 variables, with 43 values at most, and 160 cost functions, with maximum arity 2.
+Cost function decomposition time : 3.4e-05 seconds.
+Preprocessing time: 0.010494 seconds.
+21 unassigned variables, 303 values in all current domains (med. size:4, max size:43) and 138 non-unary cost functions (med. degree:12)
+Initial lower and upper bounds: [1959818, 4441364[ 55.874%
+New solution: 1960204 (0 backtracks, 19 nodes, depth 20)
+Optimality gap: [1959819, 1960204[ 0.020 % (15 backtracks, 34 nodes)
+New solution: 1959906 (15 backtracks, 48 nodes, depth 10)
+Optimality gap: [1959822, 1959906[ 0.004 % (24 backtracks, 57 nodes)
+Optimality gap: [1959825, 1959906[ 0.004 % (29 backtracks, 70 nodes)
+New solution: 1959880 (29 backtracks, 77 nodes, depth 2)
+Optimality gap: [1959829, 1959880[ 0.003 % (30 backtracks, 78 nodes)
+New solution: 1959868 (30 backtracks, 85 nodes, depth 3)
+Optimality gap: [1959836, 1959868[ 0.002 % (32 backtracks, 87 nodes)
+Optimality gap: [1959848, 1959868[ 0.001 % (38 backtracks, 100 nodes)
+Optimality gap: [1959849, 1959868[ 0.001 % (39 backtracks, 110 nodes)
+Optimality gap: [1959856, 1959868[ 0.001 % (39 backtracks, 116 nodes)
+Optimality gap: [1959857, 1959868[ 0.001 % (39 backtracks, 125 nodes)
+Optimality gap: [1959858, 1959868[ 0.001 % (39 backtracks, 133 nodes)
+Optimality gap: [1959859, 1959868[ 0.000 % (39 backtracks, 140 nodes)
+New solution: 1959862 (39 backtracks, 149 nodes, depth 2)
+Optimality gap: [1959862, 1959862[ 0.000 % (40 backtracks, 150 nodes)
+Node redundancy during HBFS: 44.000 %
+Optimum: 1959862 in 40 backtracks and 150 nodes ( 245 removals by DEE) and 0.016 seconds.
+end.

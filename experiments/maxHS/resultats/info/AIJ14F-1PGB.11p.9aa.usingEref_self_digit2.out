@@ -1,0 +1,139 @@
+c MaxHS 4.0.0
+c Instance: ../../../instances_wcnf/AIJ14F-1PGB.11p.9aa.usingEref_self_digit2.wcnf
+c Parameter Settings
+c ============================================
+c  A: General MaxHS Options
+c   abstract-cores2greedy = false, bvardecisions = false, fbeq = false, printOptions = true,
+c   printBstSoln = false, printSoln = false, printSoln-new-format = true, version = false,
+c   tolerance = 1e-06, coretype = 0, cpu-lim = 2147483647, mem-lim = 2147483647,
+c   verb = 1,
+c 
+c  B: MaxHS with abstractions Options
+c   abstract = true, abstract-max-ave-size = 100, abstract-gap = 5, exhaust-cpu-lim-all-clauses = 15,
+c   exhaust-cpu-lim = 60, abstract-min-cores = 2, abstract-max_core_size = 1000, abstract-minsize = 2,
+c   cplex-greedy = 0, abstract-greedy_cores = 2, abstract-cplex_cores = 2,
+c 
+c  C: Disjoint Phase Options
+c   dsjnt = true, dsjnt-cpu-lim = 30, dsjnt-mus-cpu-lim = 10,
+c 
+c  D: Seeding Options
+c   seed-learnts = true, seed_cpu_before_cplex = 200, seedtype = 3, seed-max = 524288,
+c   seed-all-limit = 512,
+c 
+c  E: Sequence of Sat Options
+c   lp-harden = true, find-forced = false, improve-model = false, use-ub-mipstart = true,
+c   max-cpu-improve-model = 10, max-cpu-before-cplex = 200, relaxfrac = 0.3, optcores-cpu-lim = 10,
+c   abstract-assumps = 1, nonopt = 3, frac-rampup-start = 128, frac-rampup-end = 512,
+c   max-cores-before-cplex = 300, sort-assumps = 0, max-size-improve-model = -1,
+c 
+c  F: Core Minimization Options
+c   mus-min-red = 0.1, mus-cpu-lim = 2.5, mintype = 1, mverb = 0,
+c  
+c  G: CPLEX Options
+c   cplex-tune = false, cplex-min-ticks = 4, cplex-threads = 1,
+c 
+c  H: CPLEX Solution Pool and Populate Options
+c   cplextime-pop-cpu-lim = 7.5, cplex-solnpool-cap = 256, cplex-pop-nsoln = 256, cplex-populate = 1,
+c   ub-conflicts = 1,
+c 
+c  I: Preprocessing Options
+c   wcnf-harden = true, preprocess = true, wcnf-eqs = true, simplify-only = false,
+c   mx-seed-mxes = true, mx-constrain-hs = true, mx-sat-prepro = false, wcnf-units = true,
+c   mx-cpu-lim = 15, mx-find-mxes = 2, mx-mem-lim = 1536,
+c 
+c  J: Debugging Options
+c   dump-prepro = false, cplex-wrt-model = false, cplex-output = false, cplex-data-chk = true,
+c  
+c  J: MINISAT solver Options
+c   luby = true, rnd-init = false, rinc = 2, gc-frac = 0.2,
+c   var-decay = 0.95, cla-decay = 0.999, rnd-freq = 0, rnd-seed = 9.16483e+07,
+c   min-learnts = 0, sverb = 0, firstReduceDB = 2000, incReduceDB = 300,
+c   specialIncReduceDB = 1000, rfirst = 100, phase-saving = 2, ccmin-mode = 2,
+c  
+c  K: MINISAT simplifier Options
+c   elim = true, rcheck = false, asymm = false, simp-gc-frac = 0.5,
+c   grow = 0, sub-lim = 1000, cl-lim = 20
+c ============================================
+c
+c Instance: ../../../instances_wcnf/AIJ14F-1PGB.11p.9aa.usingEref_self_digit2.wcnf
+c Dimacs Vars: 351
+c Dimacs Clauses: 51211
+c HARD: #Clauses = 9509, Total Lits = 19347, Ave Len = 2.0346 #units = 0
+c SOFT: #Clauses = 41702, Total Lits = 83133, Ave Len = 1.9935
+c Total Soft Clause Weight (+ basecost): 4.62038e+07 (+ 0), Dimacs Top = 2.83345e+06
+c SOFT%: 81.4317%
+c #distinct weights: 3362, mean = 1107.95, std. dev = 7401.83, min = 1, max = 205395
+c Total Clauses: 51211
+c Parse time: 0.007371
+c Wcnf Space Required: 0MB
+c ================================
+c transitionWts = [ ] (0)
+c WCNF hardened 0 soft clauses
+c WCNF units: found 0 units
+c WCNF SCCs: found 0 strongly connected components
+c WCNF removed: 0 variables
+c WCNF removed: 0 hard clauses
+c WCNF removed: 0 lits from hard clauses
+c WCNF removed: 0 soft clauses
+c WCNF removed: 0 lits from softs clauses
+c WCNF found 0 redundant hards and 0 duplicate or subsumed softs
+c WCNF mutexes: #mutexes found = 0
+c WCNF mx finder used 41702 calls to UP engine
+c WCNF mutexes: original #softs 41702 #softs after mx-transforms 41702
+c WCNF mutexes: reduction in softs 0
+c After WCNF Simplification
+c HARD: #Clauses = 9509, Total Lits = 19347, Ave Len = 2.0346
+c SOFT: #Clauses = 41702, Total Lits = 83133, Ave Len = 1.9935
+c Total Soft Clause Weight (+ basecost): 4.62038e+07 (+ 0), Dimacs Top = 2.83345e+06
+c #distinct weights: 3362, mean = 1107.95, std. dev = 7401.83, min = 1, max = 205395
+c Total Clauses: 51211
+c Wcnf Space Required: 0.743536MB
+c ================================
+c Muser: Vars of hards = 351 vars to be frozen = 351
+c Using IBM CPLEX version 12.10.0.0 under IBM's Academic Initiative licencing program
+c Total used vars = 351 vars to be frozen = 271
+c MiniSat Preprocess eliminated 2 variables. took 0.019436 sec.
+c Before solving sat solver has 50929 clauses and 0 learnts
+c Init Bnds: SAT Time 0.005111
+c New UB found 9713
+c Elapsed time 0.04642
+c Init Bnds: LB = 0 UB = 9713
+c Init Bnds: Forced 0 literals.
+c Init Bnds: after sat solver solver has 50929 clauses and 100 learnts
+c EqSeed: found 50929 seedable constraints from input clauses
+c EqSeed: 0 cores 5812 non-cores 25544 mixed-cores 19573 ordinary clauses
+c EqSeed: found 100 seedable constraints from  learnts
+c EqSeed: 0 cores 0 non-cores 3 mixed-cores 97 ordinary clauses
+c EqSeed: #seeded constraints 51029
+c EqSeed: cores            0 Ave length 0
+c EqSeed: non-cores        5812 Ave length 2
+c EqSeed: mixed cores      25547 Ave length 3.006458684
+c EqSeed: ordinary clauses 19670 Ave length 3.462938485
+c CPLEX has full input theory
+c All clauses seeded into CPLEX
+c Disjoint Phase
+c New UB found 1
+c Elapsed time 0.102471
+c Dsjnt: #Cores 1 with total weight 1 LB 1 UB 1
+c Dsjnt: Avg Core Size 314
+c Dsjnt: Time 0.041639
+c Solved by disjoint phase.
+o 1
+s OPTIMUM FOUND
+c Solved: Number of falsified softs = 1
+c SAT: #calls 3
+c SAT: Total time 0.045676
+c SAT: #muser calls 1 (100 % successful)
+c SAT: Minimize time 0.037653 (82.43497679%)
+c SAT: Avg constraint minimization inf
+c GREEDY: #calls 0
+c GREEDY: Total time 0
+c CPLEX: #calls 0
+c CPLEX: Total time 0
+c CPLEX: #constraints 0
+c CPLEX: #non-core constraints 0
+c LP-Bounds: Total time 0
+c LP-Bounds: #calls 0
+c LP-Bounds: Forced 0 variables
+c MEM MB: 57
+c CPU: 0.166232

@@ -1,0 +1,35 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-1STN.matrix.120p.18aa.usingEref_self_digit2.wcsp
+Read 120 variables, with 180 values at most, and 7166 cost functions, with maximum arity 2.
+Cost function decomposition time : 0.004752 seconds.
+Reverse DAC lower bound: 36960263 (+2.70561e-05%)
+Preprocessing time: 15.3377 seconds.
+120 unassigned variables, 13740 values in all current domains (med. size:132, max size:180) and 7045 non-unary cost functions (med. degree:119)
+Initial lower and upper bounds: [36960263, 512409557603043100[ 100.000%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+c 16777216 Bytes allocated for long long stack.
+c 33554432 Bytes allocated for long long stack.
+c 67108864 Bytes allocated for long long stack.
+c 134217728 Bytes allocated for long long stack.
+c 268435456 Bytes allocated for long long stack.
+c 536870912 Bytes allocated for long long stack.
+c 1073741824 Bytes allocated for long long stack.
+c 2147483648 Bytes allocated for long long stack.
+c 1572864 Bytes allocated for int stack.
+c 4294967296 Bytes allocated for long long stack.
+c 3145728 Bytes allocated for int stack.
+c 8589934592 Bytes allocated for long long stack.
+New solution: 37077173 (0 backtracks, 465 nodes, depth 466)
+Optimality gap: [36960349, 37077173[ 0.315 % (449 backtracks, 914 nodes)
+New solution: 37074443 (831 backtracks, 2126 nodes, depth 440)
+New solution: 37071696 (1256 backtracks, 3009 nodes, depth 455)
+New solution: 37071115 (1699 backtracks, 3906 nodes, depth 450)
+New solution: 37070859 (5100 backtracks, 10752 nodes, depth 429)
+New solution: 37070463 (23135 backtracks, 47421 nodes, depth 434)
+New solution: 37069825 (57755 backtracks, 118191 nodes, depth 438)
+c 2097152 Bytes allocated for hybrid best-first search open nodes.
+c 4194304 Bytes allocated for hybrid best-first search open nodes.
+
+Time limit expired... Aborting...

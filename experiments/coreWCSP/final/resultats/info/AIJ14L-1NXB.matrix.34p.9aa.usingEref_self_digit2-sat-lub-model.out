@@ -1,0 +1,8 @@
+lb 2971624 ub 5144647 before adjustment
+lb 0 ub 2173023 after adjustment
+costs ready
+24 variables 252 functions 2971624 lb, 2173023 ub
+Iteration 0 MHV  lb 2971624 ub 2971624  time 0.000858 0.001355 0
+Optimal value: 2971624
+Real time: 0.015069
+CPU time: 0.015199

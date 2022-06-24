@@ -1,0 +1,48 @@
+lb 4193035912954 ub 512409557603043100 before adjustment
+lb 0 ub 512405364567130146 after adjustment
+costs ready
+ub 12929876455869 after 2nd adjustment
+45 variables 1035 functions 4193035912954 lb, 12929876455869 ub
+Iteration 0  HV  cores 12 12 12  time 72.3773 0 0
+Iteration 1  HV  cores 23 23 11  time 122.313 0 0
+Iteration 2  HV  cores 35 35 12  time 236.355 0 0
+Iteration 3  HV  cores 46 45 11  time 308.623 0 0
+Iteration 4  HV  cores 55 54 9  time 354.302 0 0
+Iteration 5  HV  cores 65 64 10  time 402.61 0 0
+Iteration 6  HV  cores 75 74 10  time 474.865 0 0
+Iteration 7  HV  cores 85 84 10  time 564.127 0 0
+Iteration 8  HV  cores 95 94 10  time 669.508 0 0
+Iteration 9  HV  cores 105 104 10  time 836.504 0 0
+Iteration 10  HV  cores 114 113 9  time 892.598 0 0
+Iteration 11  HV  cores 123 122 9  time 965.544 0 0
+Iteration 12  HV  cores 131 130 8  time 996.9 0 0
+Iteration 13  HV  cores 140 139 9  time 1079.99 0 0
+Iteration 14  HV  cores 149 148 9  time 1152.84 0 0
+Iteration 15  HV  cores 158 157 9  time 1214.89 0 0
+Iteration 16  HV  cores 167 166 9  time 1316.95 0 0
+Iteration 17  HV  cores 173 172 6  time 1351.2 0 0
+Iteration 18  HV  cores 181 180 8  time 1401.87 0 0
+Iteration 19  HV  cores 189 188 8  time 1499.1 0 0
+Iteration 20  HV  cores 197 196 8  time 1563.64 0 0
+Iteration 21  HV  cores 207 206 10  time 1632.65 0 0
+Iteration 22  HV  cores 215 213 8  time 1677.94 0 0
+Iteration 23  HV  cores 222 220 7  time 1719.06 0 0
+Iteration 24  HV  cores 229 227 7  time 1800.68 0 0
+Iteration 25  HV  cores 237 235 8  time 1827.52 0 0
+Iteration 26  HV  cores 245 243 8  time 1863.99 0 0
+Iteration 27  HV  cores 253 251 8  time 1945.87 0 0
+Iteration 28  HV  cores 259 257 6  time 2016.31 0 0
+Iteration 29  HV  cores 265 263 6  time 2109.38 0 0
+Iteration 30  HV  cores 274 272 9  time 2217.7 0 0
+Iteration 31  HV  cores 282 280 8  time 2274.46 0 0
+Iteration 32  HV  cores 289 287 7  time 2317.36 0 0
+Iteration 33  HV  cores 297 295 8  time 2363.08 0 0
+Iteration 34  HV  cores 305 303 8  time 2426.4 0 0
+Iteration 35  HV  cores 313 311 8  time 2498.05 0 0
+Iteration 36  HV  cores 320 318 7  time 2575.48 0 0
+Iteration 37  HV  cores 328 326 8  time 2649.26 0 0
+Iteration 38  HV  cores 334 332 6  time 2691.42 0 0
+Iteration 39  HV  cores 340 338 6  time 2723.15 0 0
+Iteration 40  HV  cores 348 346 8  time 2823.15 0 0
+Iteration 41  HV  cores 354 352 6  time 2929.45 0 0
+Iteration 42  HV  cores 360 358 6  time 3024.43 0 0

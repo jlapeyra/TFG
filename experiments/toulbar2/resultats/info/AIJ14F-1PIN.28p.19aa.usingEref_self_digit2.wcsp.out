@@ -1,0 +1,61 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14F-1PIN.28p.19aa.usingEref_self_digit2.wcsp
+Read 28 variables, with 198 values at most, and 407 cost functions, with maximum arity 2.
+Cost function decomposition time : 5.3e-05 seconds.
+Preprocessing time: 2.51572 seconds.
+28 unassigned variables, 4713 values in all current domains (med. size:183, max size:198) and 378 non-unary cost functions (med. degree:27)
+Initial lower and upper bounds: [1978288, 41622769[ 95.247%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+c 16777216 Bytes allocated for long long stack.
+c 33554432 Bytes allocated for long long stack.
+c 67108864 Bytes allocated for long long stack.
+c 134217728 Bytes allocated for long long stack.
+c 268435456 Bytes allocated for long long stack.
+c 536870912 Bytes allocated for long long stack.
+New solution: 1997746 (0 backtracks, 125 nodes, depth 126)
+Optimality gap: [1978350, 1997746[ 0.971 % (120 backtracks, 245 nodes)
+Optimality gap: [1978483, 1997746[ 0.964 % (206 backtracks, 420 nodes)
+Optimality gap: [1978805, 1997746[ 0.948 % (297 backtracks, 606 nodes)
+New solution: 1996873 (389 backtracks, 907 nodes, depth 112)
+Optimality gap: [1978846, 1996873[ 0.903 % (500 backtracks, 1018 nodes)
+Optimality gap: [1979046, 1996873[ 0.893 % (1371 backtracks, 2847 nodes)
+New solution: 1996820 (2527 backtracks, 5381 nodes, depth 92)
+Optimality gap: [1979235, 1996820[ 0.881 % (2617 backtracks, 5471 nodes)
+Optimality gap: [1979409, 1996820[ 0.872 % (4577 backtracks, 9626 nodes)
+New solution: 1996590 (4714 backtracks, 10019 nodes, depth 84)
+New solution: 1996365 (5596 backtracks, 11932 nodes, depth 86)
+New solution: 1996129 (5681 backtracks, 12127 nodes, depth 97)
+Optimality gap: [1979537, 1996129[ 0.831 % (9228 backtracks, 19719 nodes)
+New solution: 1995990 (18067 backtracks, 39269 nodes, depth 79)
+New solution: 1995848 (18416 backtracks, 40038 nodes, depth 71)
+Optimality gap: [1979696, 1995848[ 0.809 % (18486 backtracks, 40108 nodes)
+Optimality gap: [1979872, 1995848[ 0.800 % (30005 backtracks, 66095 nodes)
+New solution: 1995772 (34086 backtracks, 75491 nodes, depth 89)
+New solution: 1995759 (46811 backtracks, 103804 nodes, depth 75)
+New solution: 1995608 (46824 backtracks, 103835 nodes, depth 80)
+Optimality gap: [1980028, 1995608[ 0.781 % (46977 backtracks, 104063 nodes)
+c 2097152 Bytes allocated for hybrid best-first search open nodes.
+New solution: 1995546 (92924 backtracks, 200242 nodes, depth 91)
+New solution: 1995540 (92925 backtracks, 200244 nodes, depth 91)
+New solution: 1995461 (125007 backtracks, 267328 nodes, depth 64)
+New solution: 1995445 (125025 backtracks, 267362 nodes, depth 61)
+New solution: 1995439 (125026 backtracks, 267363 nodes, depth 60)
+Optimality gap: [1980175, 1995439[ 0.765 % (134245 backtracks, 286639 nodes)
+c 4194304 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [1980347, 1995439[ 0.756 % (281315 backtracks, 595879 nodes)
+Optimality gap: [1980518, 1995439[ 0.748 % (535047 backtracks, 1131045 nodes)
+c 8388608 Bytes allocated for hybrid best-first search open nodes.
+New solution: 1995407 (672430 backtracks, 1421608 nodes, depth 73)
+Optimality gap: [1980685, 1995407[ 0.738 % (965060 backtracks, 2041291 nodes)
+c 16777216 Bytes allocated for hybrid best-first search open nodes.
+New solution: 1995273 (1224105 backtracks, 2591068 nodes, depth 78)
+New solution: 1995267 (1533099 backtracks, 3248135 nodes, depth 63)
+Optimality gap: [1980835, 1995267[ 0.723 % (1570823 backtracks, 3328356 nodes)
+New solution: 1995223 (2133100 backtracks, 4525209 nodes, depth 64)
+New solution: 1995170 (2133106 backtracks, 4525219 nodes, depth 61)
+c 33554432 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [1980990, 1995170[ 0.711 % (2572281 backtracks, 5461309 nodes)
+
+Time limit expired... Aborting...

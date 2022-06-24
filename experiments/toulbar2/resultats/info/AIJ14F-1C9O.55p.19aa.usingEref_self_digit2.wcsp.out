@@ -1,0 +1,41 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14F-1C9O.55p.19aa.usingEref_self_digit2.wcsp
+Read 55 variables, with 198 values at most, and 1541 cost functions, with maximum arity 2.
+Cost function decomposition time : 0.00029 seconds.
+Reverse DAC lower bound: 7959490 (+3.76909e-05%)
+Preprocessing time: 9.94294 seconds.
+55 unassigned variables, 9320 values in all current domains (med. size:172, max size:198) and 1485 non-unary cost functions (med. degree:54)
+Initial lower and upper bounds: [7959490, 103511264[ 92.311%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+c 16777216 Bytes allocated for long long stack.
+c 33554432 Bytes allocated for long long stack.
+c 67108864 Bytes allocated for long long stack.
+c 134217728 Bytes allocated for long long stack.
+c 268435456 Bytes allocated for long long stack.
+c 536870912 Bytes allocated for long long stack.
+c 1073741824 Bytes allocated for long long stack.
+c 2147483648 Bytes allocated for long long stack.
+c 4294967296 Bytes allocated for long long stack.
+c 1572864 Bytes allocated for int stack.
+New solution: 8028871 (0 backtracks, 240 nodes, depth 241)
+Optimality gap: [7959552, 8028871[ 0.863 % (240 backtracks, 480 nodes)
+New solution: 8022427 (240 backtracks, 718 nodes, depth 237)
+Optimality gap: [7960845, 8022427[ 0.768 % (472 backtracks, 950 nodes)
+Optimality gap: [7961448, 8022427[ 0.760 % (1210 backtracks, 2437 nodes)
+New solution: 8021013 (4115 backtracks, 8605 nodes, depth 235)
+Optimality gap: [7961969, 8021013[ 0.736 % (4627 backtracks, 9411 nodes)
+Optimality gap: [7962571, 8021013[ 0.729 % (9161 backtracks, 18720 nodes)
+Optimality gap: [7963183, 8021013[ 0.721 % (25672 backtracks, 52777 nodes)
+New solution: 8020729 (26817 backtracks, 55395 nodes, depth 209)
+New solution: 8020075 (48973 backtracks, 101346 nodes, depth 227)
+Optimality gap: [7963731, 8020075[ 0.703 % (57330 backtracks, 118449 nodes)
+c 2097152 Bytes allocated for hybrid best-first search open nodes.
+New solution: 8019866 (105896 backtracks, 220137 nodes, depth 221)
+c 4194304 Bytes allocated for hybrid best-first search open nodes.
+New solution: 8019543 (152203 backtracks, 317309 nodes, depth 199)
+Optimality gap: [7964296, 8019543[ 0.689 % (155788 backtracks, 324652 nodes)
+c 8388608 Bytes allocated for hybrid best-first search open nodes.
+
+Time limit expired... Aborting...

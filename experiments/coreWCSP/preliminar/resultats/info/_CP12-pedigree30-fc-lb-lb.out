@@ -1,0 +1,7 @@
+lb 5457 ub 138006 before adjustment
+1072 unsorted cost functions
+lb 0 ub 132549 after adjustment
+costs ready
+ub 101537 after 2nd adjustment
+727 variables 1912 functions 5457 lb, 101537 ub
+Iteration 0  lb 5459 ub 106994  cores 1 1 1  time 0.037545 0.002301

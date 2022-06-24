@@ -1,0 +1,12 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14F-1CM1.17p.19aa.usingEref_self_digit2.wcsp
+Read 16 variables, with 187 values at most, and 137 cost functions, with maximum arity 2.
+Cost function decomposition time : 1.8e-05 seconds.
+Preprocessing time: 0.240952 seconds.
+16 unassigned variables, 1476 values in all current domains (med. size:95, max size:187) and 120 non-unary cost functions (med. degree:15)
+Initial lower and upper bounds: [743645, 9152849[ 91.875%
+c 2097152 Bytes allocated for long long stack.
+New solution: 743645 (0 backtracks, 33 nodes, depth 34)
+Node redundancy during HBFS: 0.000 %
+Optimum: 743645 in 0 backtracks and 33 nodes ( 509 removals by DEE) and 0.266 seconds.
+end.

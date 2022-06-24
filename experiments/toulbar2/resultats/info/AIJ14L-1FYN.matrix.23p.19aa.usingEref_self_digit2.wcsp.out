@@ -1,0 +1,25 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-1FYN.matrix.23p.19aa.usingEref_self_digit2.wcsp
+Read 21 variables, with 183 values at most, and 210 cost functions, with maximum arity 2.
+Cost function decomposition time : 6.4e-05 seconds.
+Preprocessing time: 0.369831 seconds.
+21 unassigned variables, 1834 values in all current domains (med. size:125, max size:183) and 188 non-unary cost functions (med. degree:18)
+Initial lower and upper bounds: [1183306, 14646441[ 91.921%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+New solution: 1183777 (0 backtracks, 41 nodes, depth 42)
+Optimality gap: [1183307, 1183777[ 0.040 % (41 backtracks, 82 nodes)
+New solution: 1183505 (41 backtracks, 104 nodes, depth 20)
+Optimality gap: [1183317, 1183505[ 0.016 % (60 backtracks, 123 nodes)
+New solution: 1183432 (60 backtracks, 132 nodes, depth 6)
+Optimality gap: [1183337, 1183432[ 0.008 % (64 backtracks, 136 nodes)
+Optimality gap: [1183394, 1183432[ 0.003 % (66 backtracks, 146 nodes)
+Optimality gap: [1183407, 1183432[ 0.002 % (68 backtracks, 163 nodes)
+Optimality gap: [1183426, 1183432[ 0.001 % (68 backtracks, 168 nodes)
+Optimality gap: [1183427, 1183432[ 0.000 % (68 backtracks, 175 nodes)
+New solution: 1183427 (69 backtracks, 182 nodes, depth 1)
+Optimality gap: [1183427, 1183427[ 0.000 % (69 backtracks, 182 nodes)
+Node redundancy during HBFS: 23.626 %
+Optimum: 1183427 in 69 backtracks and 182 nodes ( 2044 removals by DEE) and 0.571 seconds.
+end.

@@ -1,0 +1,30 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-1DKT.matrix.46p.18aa.usingEref_self_digit2.wcsp
+Read 45 variables, with 166 values at most, and 896 cost functions, with maximum arity 2.
+Cost function decomposition time : 0.000207 seconds.
+Preprocessing time: 0.329761 seconds.
+45 unassigned variables, 1715 values in all current domains (med. size:8, max size:166) and 850 non-unary cost functions (med. degree:40)
+Initial lower and upper bounds: [4192493, 17126766[ 75.521%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+New solution: 4192582 (0 backtracks, 55 nodes, depth 56)
+Optimality gap: [4192494, 4192582[ 0.002 % (34 backtracks, 89 nodes)
+Optimality gap: [4192510, 4192582[ 0.002 % (41 backtracks, 109 nodes)
+Optimality gap: [4192511, 4192582[ 0.002 % (43 backtracks, 120 nodes)
+Optimality gap: [4192516, 4192582[ 0.002 % (44 backtracks, 131 nodes)
+Optimality gap: [4192517, 4192582[ 0.002 % (45 backtracks, 141 nodes)
+Optimality gap: [4192522, 4192582[ 0.001 % (46 backtracks, 152 nodes)
+Optimality gap: [4192526, 4192582[ 0.001 % (47 backtracks, 173 nodes)
+Optimality gap: [4192532, 4192582[ 0.001 % (48 backtracks, 186 nodes)
+Optimality gap: [4192533, 4192582[ 0.001 % (49 backtracks, 214 nodes)
+Optimality gap: [4192535, 4192582[ 0.001 % (50 backtracks, 228 nodes)
+Optimality gap: [4192536, 4192582[ 0.001 % (52 backtracks, 269 nodes)
+Optimality gap: [4192538, 4192582[ 0.001 % (54 backtracks, 298 nodes)
+Optimality gap: [4192539, 4192582[ 0.001 % (55 backtracks, 317 nodes)
+Optimality gap: [4192545, 4192582[ 0.001 % (56 backtracks, 337 nodes)
+Optimality gap: [4192547, 4192582[ 0.001 % (57 backtracks, 363 nodes)
+Optimality gap: [4192555, 4192582[ 0.001 % (58 backtracks, 385 nodes)
+Optimality gap: [4192582, 4192582[ 0.000 % (59 backtracks, 415 nodes)
+Node redundancy during HBFS: 66.506 %
+Optimum: 4192582 in 59 backtracks and 415 nodes ( 1491 removals by DEE) and 0.412 seconds.
+end.

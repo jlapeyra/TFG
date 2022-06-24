@@ -1,0 +1,149 @@
+c MaxHS 4.0.0
+c Instance: ../../../instances_wcnf/AIJ14L-1BK2.matrix.24p.17aa.usingEref_self_digit2.wcnf
+c Parameter Settings
+c ============================================
+c  A: General MaxHS Options
+c   abstract-cores2greedy = false, bvardecisions = false, fbeq = false, printOptions = true,
+c   printBstSoln = false, printSoln = false, printSoln-new-format = true, version = false,
+c   tolerance = 1e-06, coretype = 0, cpu-lim = 2147483647, mem-lim = 2147483647,
+c   verb = 1,
+c 
+c  B: MaxHS with abstractions Options
+c   abstract = true, abstract-max-ave-size = 100, abstract-gap = 5, exhaust-cpu-lim-all-clauses = 15,
+c   exhaust-cpu-lim = 60, abstract-min-cores = 2, abstract-max_core_size = 1000, abstract-minsize = 2,
+c   cplex-greedy = 0, abstract-greedy_cores = 2, abstract-cplex_cores = 2,
+c 
+c  C: Disjoint Phase Options
+c   dsjnt = true, dsjnt-cpu-lim = 30, dsjnt-mus-cpu-lim = 10,
+c 
+c  D: Seeding Options
+c   seed-learnts = true, seed_cpu_before_cplex = 200, seedtype = 3, seed-max = 524288,
+c   seed-all-limit = 512,
+c 
+c  E: Sequence of Sat Options
+c   lp-harden = true, find-forced = false, improve-model = false, use-ub-mipstart = true,
+c   max-cpu-improve-model = 10, max-cpu-before-cplex = 200, relaxfrac = 0.3, optcores-cpu-lim = 10,
+c   abstract-assumps = 1, nonopt = 3, frac-rampup-start = 128, frac-rampup-end = 512,
+c   max-cores-before-cplex = 300, sort-assumps = 0, max-size-improve-model = -1,
+c 
+c  F: Core Minimization Options
+c   mus-min-red = 0.1, mus-cpu-lim = 2.5, mintype = 1, mverb = 0,
+c  
+c  G: CPLEX Options
+c   cplex-tune = false, cplex-min-ticks = 4, cplex-threads = 1,
+c 
+c  H: CPLEX Solution Pool and Populate Options
+c   cplextime-pop-cpu-lim = 7.5, cplex-solnpool-cap = 256, cplex-pop-nsoln = 256, cplex-populate = 1,
+c   ub-conflicts = 1,
+c 
+c  I: Preprocessing Options
+c   wcnf-harden = true, preprocess = true, wcnf-eqs = true, simplify-only = false,
+c   mx-seed-mxes = true, mx-constrain-hs = true, mx-sat-prepro = false, wcnf-units = true,
+c   mx-cpu-lim = 15, mx-find-mxes = 2, mx-mem-lim = 1536,
+c 
+c  J: Debugging Options
+c   dump-prepro = false, cplex-wrt-model = false, cplex-output = false, cplex-data-chk = true,
+c  
+c  J: MINISAT solver Options
+c   luby = true, rnd-init = false, rinc = 2, gc-frac = 0.2,
+c   var-decay = 0.95, cla-decay = 0.999, rnd-freq = 0, rnd-seed = 9.16483e+07,
+c   min-learnts = 0, sverb = 0, firstReduceDB = 2000, incReduceDB = 300,
+c   specialIncReduceDB = 1000, rfirst = 100, phase-saving = 2, ccmin-mode = 2,
+c  
+c  K: MINISAT simplifier Options
+c   elim = true, rcheck = false, asymm = false, simp-gc-frac = 0.5,
+c   grow = 0, sub-lim = 1000, cl-lim = 20
+c ============================================
+c
+c Instance: ../../../instances_wcnf/AIJ14L-1BK2.matrix.24p.17aa.usingEref_self_digit2.wcnf
+c Dimacs Vars: 445
+c Dimacs Clauses: 73102
+c HARD: #Clauses = 10666, Total Lits = 21736, Ave Len = 2.03788 #units = 0
+c SOFT: #Clauses = 62436, Total Lits = 124502, Ave Len = 1.99407
+c Total Soft Clause Weight (+ basecost): 2.33822e+07 (+ 0), Dimacs Top = 3.34034e+06
+c SOFT%: 85.4094%
+c #distinct weights: 2062, mean = 374.498, std. dev = 4153.59, min = 1, max = 237171
+c Total Clauses: 73102
+c Parse time: 0.009509
+c Wcnf Space Required: 1MB
+c ================================
+c transitionWts = [ ] (0)
+c WCNF hardened 0 soft clauses
+c WCNF units: found 0 units
+c WCNF SCCs: found 0 strongly connected components
+c WCNF removed: 0 variables
+c WCNF removed: 0 hard clauses
+c WCNF removed: 0 lits from hard clauses
+c WCNF removed: 0 soft clauses
+c WCNF removed: 0 lits from softs clauses
+c WCNF found 0 redundant hards and 0 duplicate or subsumed softs
+c WCNF mutexes: #mutexes found = 0
+c WCNF mx finder used 62436 calls to UP engine
+c WCNF mutexes: original #softs 62436 #softs after mx-transforms 62436
+c WCNF mutexes: reduction in softs 0
+c After WCNF Simplification
+c HARD: #Clauses = 10666, Total Lits = 21736, Ave Len = 2.03788
+c SOFT: #Clauses = 62436, Total Lits = 124502, Ave Len = 1.99407
+c Total Soft Clause Weight (+ basecost): 2.33822e+07 (+ 0), Dimacs Top = 3.34034e+06
+c #distinct weights: 2062, mean = 374.498, std. dev = 4153.59, min = 1, max = 237171
+c Total Clauses: 73102
+c Wcnf Space Required: 1.08444MB
+c ================================
+c Muser: Vars of hards = 445 vars to be frozen = 445
+c Using IBM CPLEX version 12.10.0.0 under IBM's Academic Initiative licencing program
+c Total used vars = 445 vars to be frozen = 370
+c MiniSat Preprocess eliminated 12 variables. took 0.034572 sec.
+c Before solving sat solver has 72649 clauses and 0 learnts
+c Init Bnds: SAT Time 0.00484
+c New UB found 9373
+c Elapsed time 0.070164
+c Init Bnds: LB = 0 UB = 9373
+c Init Bnds: Forced 0 literals.
+c Init Bnds: after sat solver solver has 72649 clauses and 22 learnts
+c EqSeed: found 72649 seedable constraints from input clauses
+c EqSeed: 0 cores 8225 non-cores 46173 mixed-cores 18251 ordinary clauses
+c EqSeed: found 22 seedable constraints from  learnts
+c EqSeed: 0 cores 0 non-cores 2 mixed-cores 20 ordinary clauses
+c EqSeed: #seeded constraints 72671
+c EqSeed: cores            0 Ave length 0
+c EqSeed: non-cores        8225 Ave length 2
+c EqSeed: mixed cores      46175 Ave length 3.006735246
+c EqSeed: ordinary clauses 18271 Ave length 3.337036834
+c CPLEX has full input theory
+c All clauses seeded into CPLEX
+c Disjoint Phase
+c Add to satSolver 2 newly forced from muser.
+c Dsjnt: #Cores 6 with total weight 6 LB 6 UB 9373
+c Dsjnt: Avg Core Size 570
+c Dsjnt: Time 1.316197
+c Add to CPLEX 2 Forced bvars. 0 are forced totalizer outputs
+c CPLEX: += 72677 Clauses. Average size =3.022648156
+c Initial solve: add to CPLEX 72679 constraints
+.c CPLEX returns incumbent with cost 170 and lower bound of 170 time = 10.87767
+c CPLEX solution cost = 170 lower bound = 170
+c CPLEX found optimal solution to its current model
+c after CPLEX bnds: LB = 170 UB = 9373 gap = 9203
+c New UB found 170
+c Elapsed time 12.341009
+c Solved by CPLEX model.
+o 170
+s OPTIMUM FOUND
+c Solved: Number of falsified softs = 12
+c SAT: #calls 9
+c SAT: Total time 1.321067
+c SAT: #muser calls 6 (100 % successful)
+c SAT: Minimize time 1.290101 (97.65598565%)
+c SAT: Avg constraint minimization 0.01063610221
+c GREEDY: #calls 0
+c GREEDY: Total time 0
+c CPLEX: #calls 1
+c CPLEX: Total time 10.87767
+c CPLEX: #constraints 72677
+c CPLEX: Avg constraint size 3.022620637
+c CPLEX: #non-core constraints 72652
+c CPLEX: Ave non-core size 2.963043
+c LP-Bounds: Total time 0
+c LP-Bounds: #calls 0
+c LP-Bounds: Forced 0 variables
+c MEM MB: 336
+c CPU: 12.422815

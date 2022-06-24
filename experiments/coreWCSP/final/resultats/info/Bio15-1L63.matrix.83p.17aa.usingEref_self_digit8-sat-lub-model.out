@@ -1,0 +1,54 @@
+lb 12892682042706 ub 512409557603043100 before adjustment
+lb 0 ub 512396664921000394 after adjustment
+costs ready
+ub 12887057437736 after 2nd adjustment
+72 variables 2627 functions 12892682042706 lb, 12887057437736 ub
+Iteration 0  HV  cores 6 6 6  time 4.56665 0 0.134625
+Iteration 1 MHV  lb 12892682042712 ub 25779739480441  time 4.61557 2.4234 0.134625
+Iteration 2  HV  cores 11 11 5  time 17.6271 2.4234 1.42108
+Iteration 3 MHV  lb 12892682042715 ub 17666108988895  time 17.6693 5.11613 1.42108
+Iteration 4  HV  cores 17 17 6  time 22.5696 5.11613 66.9186
+Iteration 5 MHV  lb 12892682042732 ub 15542924580046  time 22.6115 7.80903 66.9186
+Iteration 6  HV  cores 23 23 6  time 28.1958 7.80903 148.032
+Iteration 7  HV  cores 28 28 5  time 34.7471 7.80903 232.084
+Iteration 8 MHV  lb 12892682042924 ub 14484896059110  time 34.7901 10.6408 232.084
+Iteration 9  HV  cores 34 34 6  time 41.1377 10.6408 323.032
+Iteration 10  HV  cores 39 39 5  time 50.9807 10.6408 420.995
+Iteration 11 MHV  lb 12892682043172 ub 13659013487829  time 51.0243 13.4651 420.995
+Iteration 12  HV  cores 45 45 6  time 56.8671 13.4651 506.799
+Iteration 13  HV  cores 47 47 2  time 62.797 13.4651 591.861
+Iteration 14 MHV  lb 12892682043447 ub 13313451838841  time 62.8396 16.3022 591.861
+Iteration 15  HV  cores 52 52 5  time 68.4316 16.3022 677.04
+Iteration 16  HV  cores 54 54 2  time 79.2516 16.3022 773.217
+Iteration 17  HV  cores 55 55 1  time 86.1465 16.3022 858.054
+Iteration 18  HV  cores 56 56 1  time 86.6344 16.3022 942.875
+Iteration 19 MHV  lb 12892682056276 ub 13119822963011  time 86.6768 19.1779 942.875
+Iteration 20  HV  cores 62 62 6  time 93.0846 19.1779 1029.48
+Iteration 21  HV  cores 63 63 1  time 96.5779 19.1779 1113.64
+Iteration 22 MHV  lb 12892682057137 ub 12968370991748  time 96.6209 22.0838 1113.64
+Iteration 23  HV  cores 69 69 6  time 101.087 22.0838 1201.36
+Iteration 24  HV  cores 71 71 2  time 102.78 22.0838 1287.61
+Iteration 25  HV  cores 73 73 2  time 107.565 22.0838 1374.29
+Iteration 26  HV  cores 74 74 1  time 109.044 22.0838 1459.37
+Iteration 27  HV  cores 75 75 1  time 109.744 22.0838 1545.06
+Iteration 28  HV  cores 76 76 1  time 110.589 22.0838 1630.85
+Iteration 29  HV  cores 77 77 1  time 111.799 22.0838 1716.39
+Iteration 30 MHV  lb 12892682057519 ub 12944714224532  time 111.842 25.0468 1716.39
+Iteration 31  HV  cores 83 83 6  time 117.08 25.0468 1802.57
+Iteration 32  HV  cores 84 84 1  time 119.411 25.0468 1888.55
+Iteration 33  HV  cores 85 85 1  time 119.762 25.0468 1974.41
+Iteration 34  HV  cores 87 87 2  time 122.161 25.0468 2060.16
+Iteration 35  HV  cores 89 89 2  time 126.289 25.0468 2146.25
+Iteration 36  HV  cores 91 91 2  time 128.54 25.0468 2232.31
+Iteration 37  HV  cores 93 93 2  time 129.417 25.0468 2318.38
+Iteration 38  HV  cores 95 95 2  time 130.516 25.0468 2406.65
+Iteration 39  HV  cores 97 97 2  time 146.729 25.0468 2494.13
+Iteration 40  HV  cores 99 99 2  time 149.945 25.0468 2581.58
+Iteration 41  HV  cores 101 101 2  time 153.098 25.0468 2669.25
+Iteration 42  HV  cores 103 103 2  time 155.705 25.0468 2756.34
+Iteration 43  HV  cores 105 105 2  time 156.78 25.0468 2841.94
+Iteration 44  HV  cores 107 107 2  time 158.513 25.0468 2929.05
+Iteration 45  HV  cores 109 108 2  time 159.822 25.0468 3016.41
+Iteration 46  HV  cores 111 110 2  time 161.35 25.0468 3104.16
+Iteration 47  HV  cores 113 112 2  time 162.72 25.0468 3191.63
+Iteration 48  HV  cores 115 113 2  time 163.729 25.0468 3277.5

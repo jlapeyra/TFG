@@ -1,0 +1,41 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/Bio13-1SHG.matrix.28p.17aa.usingEref_self_digit8.wcsp
+Read 17 variables, with 49 values at most, and 154 cost functions, with maximum arity 2.
+Cost function decomposition time : 2.7e-05 seconds.
+Preprocessing time: 0.007761 seconds.
+17 unassigned variables, 272 values in all current domains (med. size:6, max size:49) and 136 non-unary cost functions (med. degree:16)
+Initial lower and upper bounds: [1513069995787, 512409557603043100[ 100.000%
+New solution: 1513436268049 (0 backtracks, 17 nodes, depth 18)
+Optimality gap: [1513070420981, 1513436268049[ 0.024 % (16 backtracks, 33 nodes)
+New solution: 1513413793192 (21 backtracks, 59 nodes, depth 9)
+New solution: 1513399725517 (29 backtracks, 79 nodes, depth 6)
+New solution: 1513374997629 (37 backtracks, 99 nodes, depth 5)
+Optimality gap: [1513088488298, 1513374997629[ 0.019 % (41 backtracks, 103 nodes)
+Optimality gap: [1513096489736, 1513374997629[ 0.018 % (97 backtracks, 225 nodes)
+Optimality gap: [1513109576073, 1513374997629[ 0.018 % (108 backtracks, 251 nodes)
+New solution: 1513361740407 (109 backtracks, 262 nodes, depth 4)
+Optimality gap: [1513126701056, 1513361740407[ 0.016 % (115 backtracks, 271 nodes)
+New solution: 1513361125052 (119 backtracks, 286 nodes, depth 2)
+Optimality gap: [1513128469509, 1513361125052[ 0.015 % (125 backtracks, 297 nodes)
+Optimality gap: [1513132332064, 1513361125052[ 0.015 % (133 backtracks, 319 nodes)
+New solution: 1513361003166 (135 backtracks, 333 nodes, depth 2)
+Optimality gap: [1513139939116, 1513361003166[ 0.015 % (149 backtracks, 361 nodes)
+New solution: 1513360396394 (149 backtracks, 369 nodes, depth 2)
+Optimality gap: [1513148159860, 1513360396394[ 0.014 % (154 backtracks, 378 nodes)
+Optimality gap: [1513156995252, 1513360396394[ 0.013 % (158 backtracks, 394 nodes)
+Optimality gap: [1513161128089, 1513360396394[ 0.013 % (165 backtracks, 416 nodes)
+Optimality gap: [1513169767381, 1513360396394[ 0.013 % (179 backtracks, 450 nodes)
+Optimality gap: [1513178519801, 1513360396394[ 0.012 % (185 backtracks, 477 nodes)
+Optimality gap: [1513180402923, 1513360396394[ 0.012 % (192 backtracks, 497 nodes)
+Optimality gap: [1513203416080, 1513360396394[ 0.010 % (197 backtracks, 523 nodes)
+Optimality gap: [1513204957678, 1513360396394[ 0.010 % (201 backtracks, 542 nodes)
+Optimality gap: [1513207170970, 1513360396394[ 0.010 % (204 backtracks, 552 nodes)
+Optimality gap: [1513219461308, 1513360396394[ 0.009 % (206 backtracks, 560 nodes)
+Optimality gap: [1513226900602, 1513360396394[ 0.009 % (209 backtracks, 573 nodes)
+Optimality gap: [1513236374745, 1513360396394[ 0.008 % (213 backtracks, 591 nodes)
+Optimality gap: [1513265546707, 1513360396394[ 0.006 % (222 backtracks, 616 nodes)
+Optimality gap: [1513293950677, 1513360396394[ 0.004 % (222 backtracks, 620 nodes)
+Optimality gap: [1513360396394, 1513360396394[ 0.000 % (224 backtracks, 644 nodes)
+Node redundancy during HBFS: 30.280 %
+Optimum: 1513360396394 in 224 backtracks and 644 nodes ( 847 removals by DEE) and 0.046 seconds.
+end.

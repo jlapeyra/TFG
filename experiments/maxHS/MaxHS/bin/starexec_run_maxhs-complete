@@ -1,0 +1,2 @@
+#!/bin/bash
+./maxhs -no-printOptions -printSoln -verb=0 -mx-find-mxes=2 $1

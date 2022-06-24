@@ -1,0 +1,18 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/Bio13-1CSK.matrix.30p.9aa.usingEref_self_digit8.wcsp
+Read 18 variables, with 41 values at most, and 172 cost functions, with maximum arity 2.
+Cost function decomposition time : 1.4e-05 seconds.
+Preprocessing time: 0.010171 seconds.
+18 unassigned variables, 312 values in all current domains (med. size:11, max size:41) and 153 non-unary cost functions (med. degree:17)
+Initial lower and upper bounds: [1126020292631, 512409557603043100[ 100.000%
+New solution: 1126305353714 (0 backtracks, 14 nodes, depth 15)
+Optimality gap: [1126021964213, 1126305353714[ 0.025 % (11 backtracks, 25 nodes)
+New solution: 1126064810225 (11 backtracks, 34 nodes, depth 6)
+Optimality gap: [1126028823634, 1126064810225[ 0.003 % (15 backtracks, 38 nodes)
+New solution: 1126048022546 (16 backtracks, 45 nodes, depth 1)
+Optimality gap: [1126034555139, 1126048022546[ 0.001 % (16 backtracks, 45 nodes)
+New solution: 1126037711057 (16 backtracks, 52 nodes, depth 1)
+Optimality gap: [1126037711057, 1126037711057[ 0.000 % (16 backtracks, 52 nodes)
+Node redundancy during HBFS: 30.769 %
+Optimum: 1126037711057 in 16 backtracks and 52 nodes ( 192 removals by DEE) and 0.014 seconds.
+end.

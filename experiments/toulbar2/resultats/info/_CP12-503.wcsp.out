@@ -1,0 +1,50 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/CP13-503.wcsp
+Read 123 variables, with 4 values at most, and 562 cost functions, with maximum arity 3.
+Cost function decomposition time : 9.4e-05 seconds.
+Reverse DAC lower bound: 7573 (+0.0132048%)
+Preprocessing time: 0.003661 seconds.
+123 unassigned variables, 350 values in all current domains (med. size:2, max size:4) and 438 non-unary cost functions (med. degree:6)
+Initial lower and upper bounds: [7573, 20197[ 62.504%
+New solution: 13115 (0 backtracks, 24 nodes, depth 25)
+Optimality gap: [7574, 13115[ 42.249 % (22 backtracks, 46 nodes)
+Optimality gap: [8074, 13115[ 38.437 % (44 backtracks, 91 nodes)
+New solution: 12121 (142 backtracks, 332 nodes, depth 25)
+Optimality gap: [8077, 12121[ 33.364 % (166 backtracks, 356 nodes)
+New solution: 11126 (186 backtracks, 432 nodes, depth 24)
+Optimality gap: [8078, 11126[ 27.395 % (209 backtracks, 455 nodes)
+New solution: 11124 (263 backtracks, 625 nodes, depth 27)
+New solution: 11123 (265 backtracks, 628 nodes, depth 26)
+New solution: 11119 (331 backtracks, 774 nodes, depth 26)
+New solution: 11118 (2264 backtracks, 4930 nodes, depth 23)
+New solution: 11117 (4810 backtracks, 10511 nodes, depth 22)
+New solution: 11116 (4820 backtracks, 10531 nodes, depth 21)
+New solution: 11115 (4834 backtracks, 10560 nodes, depth 21)
+Optimality gap: [8105, 11115[ 27.081 % (119470 backtracks, 259454 nodes)
+Optimality gap: [8574, 11115[ 22.861 % (132115 backtracks, 287797 nodes)
+New solution: 11114 (138803 backtracks, 301658 nodes, depth 16)
+New solution: 11113 (144045 backtracks, 312634 nodes, depth 20)
+c 917504 Bytes allocated for hybrid best-first search open nodes.
+c 1835008 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [8600, 11113[ 22.613 % (654233 backtracks, 1415642 nodes)
+Optimality gap: [9074, 11113[ 18.348 % (795619 backtracks, 1739520 nodes)
+c 3670016 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [9096, 11113[ 18.150 % (1325139 backtracks, 2890280 nodes)
+Optimality gap: [9575, 11113[ 13.840 % (2053562 backtracks, 4543791 nodes)
+c 7340032 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [9591, 11113[ 13.696 % (2893229 backtracks, 6375576 nodes)
+c 14680064 Bytes allocated for hybrid best-first search open nodes.
+c 23068672 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [9627, 11113[ 13.372 % (12606243 backtracks, 28281400 nodes)
+Optimality gap: [10075, 11113[ 9.340 % (12606246 backtracks, 28281514 nodes)
+Optimality gap: [10087, 11113[ 9.232 % (23962517 backtracks, 51014839 nodes)
+c 46137344 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [10122, 11113[ 8.917 % (51294743 backtracks, 113121608 nodes)
+Optimality gap: [10575, 11113[ 4.841 % (51294850 backtracks, 113125331 nodes)
+Optimality gap: [10583, 11113[ 4.769 % (52291330 backtracks, 115123311 nodes)
+Optimality gap: [10618, 11113[ 4.454 % (67240489 backtracks, 145911043 nodes)
+Optimality gap: [11076, 11113[ 0.333 % (67242540 backtracks, 145965377 nodes)
+Optimality gap: [11078, 11113[ 0.315 % (67264928 backtracks, 146010295 nodes)
+Node redundancy during HBFS: 7.577 %
+Optimum: 11113 in 120528613 backtracks and 260820500 nodes ( 60734999 removals by DEE) and 2970.496 seconds.
+end.

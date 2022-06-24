@@ -1,0 +1,28 @@
+lb 178436 ub 1866907 before adjustment
+lb 0 ub 1688471 after adjustment
+costs ready
+11 variables 66 functions 178436 lb, 1688471 ub
+Iteration 0  HV  cores 1 1 1  time 0.024291 0 0.010298
+Iteration 1 MHV  lb 178437 ub 875089  time 0.024838 0.016453 0.010298
+Iteration 2  HV  cores 2 1 1  time 0.037048 0.016453 0.03049
+Iteration 3 MHV  lb 178437 ub 538610  time 0.037517 0.032286 0.03049
+Iteration 4  HV  cores 3 2 1  time 0.048005 0.032286 0.055268
+Iteration 5 MHV  lb 178437 ub 381442  time 0.048472 0.048118 0.055268
+Iteration 6  HV  cores 4 3 1  time 0.058023 0.048118 0.082626
+Iteration 7 MHV  lb 178437 ub 277706  time 0.058524 0.063995 0.082626
+Iteration 8  HV  cores 5 4 1  time 0.065735 0.063995 0.114778
+Iteration 9  HV  cores 6 5 1  time 0.071451 0.063995 0.147131
+Iteration 10  HV  cores 7 6 1  time 0.07307 0.063995 0.178375
+Iteration 11 MHV  lb 178438 ub 209818  time 0.073528 0.083692 0.178375
+Iteration 12  HV  cores 8 7 1  time 0.078925 0.083692 0.213768
+Iteration 13  HV  cores 9 8 1  time 0.118031 0.083692 0.248163
+Iteration 14 MHV  lb 178439 ub 184265  time 0.118523 0.103548 0.248163
+Iteration 15  HV  cores 10 9 1  time 0.134461 0.103548 0.292406
+Iteration 16  HV  cores 11 10 1  time 0.138693 0.103548 0.336359
+Iteration 17  HV  cores 12 11 1  time 0.158991 0.103548 0.380217
+Iteration 18  HV  cores 14 13 2  time 0.169998 0.103548 0.424575
+Iteration 19 MHV  lb 178440 ub 179381  time 0.170517 0.125305 0.424575
+Iteration 20 MHV  lb 178440 ub 178440  time 0.171245 0.126016 0.424575
+Optimal value: 178440
+Real time: 0.764348
+CPU time: 0.75014

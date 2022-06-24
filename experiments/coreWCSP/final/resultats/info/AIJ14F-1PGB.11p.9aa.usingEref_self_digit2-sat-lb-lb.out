@@ -1,0 +1,8 @@
+lb 125305 ub 2833447 before adjustment
+lb 0 ub 2708142 after adjustment
+costs ready
+11 variables 61 functions 125305 lb, 2708142 ub
+Iteration 0  lb 125306 ub 2833447  cores 1 1 1  time 0.013269 0.026906
+Optimal value: 125306
+Real time: 0.0878
+CPU time: 0.068713

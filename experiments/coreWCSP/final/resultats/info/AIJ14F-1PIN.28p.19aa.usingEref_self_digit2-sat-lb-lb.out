@@ -1,0 +1,17 @@
+lb 1978288 ub 41622769 before adjustment
+lb 0 ub 39644481 after adjustment
+costs ready
+28 variables 406 functions 1978288 lb, 39644481 ub
+Iteration 0  lb 1978396 ub 41622769  cores 22 22 22  time 200.828 0.671743
+Iteration 1  lb 1978490 ub 41622769  cores 46 46 24  time 456.319 1.50604
+Iteration 2  lb 1978564 ub 41622769  cores 70 70 24  time 699.967 2.33924
+Iteration 3  lb 1978672 ub 41622769  cores 94 94 24  time 945.89 3.21792
+Iteration 4  lb 1978706 ub 41622769  cores 117 116 23  time 1098.79 4.22915
+Iteration 5  lb 1978742 ub 41622769  cores 140 139 23  time 1310.54 5.84426
+Iteration 6  lb 1978770 ub 41622769  cores 163 162 23  time 1424.59 8.07696
+Iteration 7  lb 1978834 ub 41622769  cores 186 185 23  time 1720.55 10.5173
+Iteration 8  lb 1978877 ub 41622769  cores 209 208 23  time 1942.4 17.3636
+Iteration 9  lb 1978919 ub 41622769  cores 236 235 27  time 2202.89 50.3383
+Iteration 10  lb 1978956 ub 41622769  cores 258 257 22  time 2410.22 134.503
+Iteration 11  lb 1979005 ub 41622769  cores 282 280 24  time 2677.09 199.72
+Iteration 12  lb 1979046 ub 41622769  cores 305 303 23  time 2964.04 316.516

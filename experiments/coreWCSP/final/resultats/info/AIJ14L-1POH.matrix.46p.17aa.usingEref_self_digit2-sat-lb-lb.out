@@ -1,0 +1,44 @@
+lb 4033878 ub 7076926 before adjustment
+lb 0 ub 3043048 after adjustment
+costs ready
+31 variables 286 functions 4033878 lb, 3043048 ub
+Iteration 0  lb 4033879 ub 7076926  cores 1 1 1  time 0.004055 0.020336
+Iteration 1  lb 4033879 ub 7076926  cores 2 2 1  time 0.005686 0.042735
+Iteration 2  lb 4033879 ub 7076926  cores 3 2 1  time 0.012783 0.06527
+Iteration 3  lb 4033879 ub 7076926  cores 4 3 1  time 0.014371 0.087797
+Iteration 4  lb 4033879 ub 7076926  cores 5 4 1  time 0.016226 0.11036
+Iteration 5  lb 4033879 ub 7076926  cores 6 4 1  time 0.018144 0.133116
+Iteration 6  lb 4033879 ub 7076926  cores 7 5 1  time 0.019729 0.156053
+Iteration 7  lb 4033879 ub 7076926  cores 8 6 1  time 0.030571 0.179304
+Iteration 8  lb 4033879 ub 7076926  cores 9 7 1  time 0.034307 0.203022
+Iteration 9  lb 4033879 ub 7076926  cores 10 8 1  time 0.041888 0.226782
+Iteration 10  lb 4033879 ub 7076926  cores 11 9 1  time 0.051889 0.249821
+Iteration 11  lb 4033880 ub 7076926  cores 12 10 1  time 0.056263 0.277401
+Iteration 12  lb 4033880 ub 7076926  cores 13 11 1  time 0.05884 0.304768
+Iteration 13  lb 4033880 ub 7076926  cores 14 12 1  time 0.060424 0.333383
+Iteration 14  lb 4033880 ub 7076926  cores 15 13 1  time 0.061958 0.362113
+Iteration 15  lb 4033880 ub 7076926  cores 16 14 1  time 0.063434 0.392476
+Iteration 16  lb 4033880 ub 7076926  cores 17 15 1  time 0.065099 0.423859
+Iteration 17  lb 4033880 ub 7076926  cores 18 16 1  time 0.0665 0.454639
+Iteration 18  lb 4033880 ub 7076926  cores 19 17 1  time 0.067877 0.485789
+Iteration 19  lb 4033880 ub 7076926  cores 20 18 1  time 0.079231 0.51719
+Iteration 20  lb 4033880 ub 7076926  cores 21 19 1  time 0.084639 0.551194
+Iteration 21  lb 4033880 ub 7076926  cores 22 20 1  time 0.086178 0.585538
+Iteration 22  lb 4033880 ub 7076926  cores 23 21 1  time 0.087892 0.619274
+Iteration 23  lb 4033880 ub 7076926  cores 24 22 1  time 0.091936 0.654572
+Iteration 24  lb 4033880 ub 7076926  cores 25 23 1  time 0.093723 0.690317
+Iteration 25  lb 4033880 ub 7076926  cores 26 24 1  time 0.095376 0.7261
+Iteration 26  lb 4033880 ub 7076926  cores 27 25 1  time 0.096776 0.761484
+Iteration 27  lb 4033880 ub 7076926  cores 28 26 1  time 0.099633 0.796588
+Iteration 28  lb 4033880 ub 7076926  cores 29 27 1  time 0.101853 0.832597
+Iteration 29  lb 4033880 ub 7076926  cores 30 28 1  time 0.103347 0.868888
+Iteration 30  lb 4033880 ub 7076926  cores 31 29 1  time 0.104758 0.9057
+Iteration 31  lb 4033880 ub 7076926  cores 32 30 1  time 0.106208 0.940903
+Iteration 32  lb 4033880 ub 7076926  cores 33 31 1  time 0.107602 0.977858
+Iteration 33  lb 4033880 ub 7076926  cores 34 32 1  time 0.109515 1.01672
+Iteration 34  lb 4033880 ub 7076926  cores 35 33 1  time 0.110971 1.05433
+Iteration 35  lb 4033880 ub 7076926  cores 36 34 1  time 0.112371 1.09061
+Iteration 36  lb 4033880 ub 7076926  cores 37 35 1  time 0.113758 1.13096
+Optimal value: 4033880
+Real time: 1.30243
+CPU time: 1.35602

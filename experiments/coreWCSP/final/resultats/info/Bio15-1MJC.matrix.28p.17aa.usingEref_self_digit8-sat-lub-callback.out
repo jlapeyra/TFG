@@ -1,0 +1,9 @@
+lb 1514570779155 ub 512409557603043100 before adjustment
+lb 0 ub 512408043032263945 after adjustment
+costs ready
+ub 821285230910 after 2nd adjustment
+5 variables 15 functions 1514570779155 lb, 821285230910 ub
+Iteration 0 MHV  lb 1514570779155 ub 1514570779155  time 0.001418 0.002044 0
+Optimal value: 1514570779155
+Real time: 0.05198
+CPU time: 0.035676

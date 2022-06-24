@@ -1,0 +1,73 @@
+c /usr/bin/toulbar2  version : 1.0.0-master-aab1312-tainted (1530783600), copyright (c) 2006-2018, toulbar2 team
+loading wcsp file: ../../instances_preproc/AIJ14L-2CI2.matrix.51p.18aa.usingEref_self_digit2.wcsp
+Read 48 variables, with 180 values at most, and 1078 cost functions, with maximum arity 2.
+Cost function decomposition time : 0.000396 seconds.
+Preprocessing time: 1.15014 seconds.
+48 unassigned variables, 3181 values in all current domains (med. size:35, max size:180) and 1029 non-unary cost functions (med. degree:44)
+Initial lower and upper bounds: [6294945, 25156920[ 74.977%
+c 2097152 Bytes allocated for long long stack.
+c 4194304 Bytes allocated for long long stack.
+c 8388608 Bytes allocated for long long stack.
+c 16777216 Bytes allocated for long long stack.
+c 33554432 Bytes allocated for long long stack.
+c 67108864 Bytes allocated for long long stack.
+c 134217728 Bytes allocated for long long stack.
+New solution: 6300877 (0 backtracks, 115 nodes, depth 116)
+Optimality gap: [6294957, 6300877[ 0.094 % (115 backtracks, 230 nodes)
+New solution: 6300315 (195 backtracks, 497 nodes, depth 103)
+Optimality gap: [6295004, 6300315[ 0.084 % (293 backtracks, 595 nodes)
+New solution: 6300232 (612 backtracks, 1342 nodes, depth 84)
+Optimality gap: [6295069, 6300232[ 0.082 % (761 backtracks, 1561 nodes)
+New solution: 6300160 (1055 backtracks, 2278 nodes, depth 93)
+Optimality gap: [6295106, 6300160[ 0.080 % (1285 backtracks, 2662 nodes)
+New solution: 6300149 (1911 backtracks, 4068 nodes, depth 84)
+New solution: 6300055 (1994 backtracks, 4245 nodes, depth 90)
+Optimality gap: [6295156, 6300055[ 0.078 % (2626 backtracks, 5478 nodes)
+Optimality gap: [6295202, 6300055[ 0.077 % (3806 backtracks, 8003 nodes)
+New solution: 6299984 (5532 backtracks, 11767 nodes, depth 75)
+Optimality gap: [6295248, 6299984[ 0.075 % (5782 backtracks, 12219 nodes)
+New solution: 6299645 (7156 backtracks, 15319 nodes, depth 84)
+Optimality gap: [6295280, 6299645[ 0.069 % (7239 backtracks, 15402 nodes)
+Optimality gap: [6295322, 6299645[ 0.069 % (10391 backtracks, 22402 nodes)
+Optimality gap: [6295369, 6299645[ 0.068 % (14712 backtracks, 32157 nodes)
+Optimality gap: [6295416, 6299645[ 0.067 % (19681 backtracks, 43647 nodes)
+Optimality gap: [6295463, 6299645[ 0.066 % (41031 backtracks, 89710 nodes)
+New solution: 6299618 (64154 backtracks, 139826 nodes, depth 55)
+New solution: 6299599 (64155 backtracks, 139827 nodes, depth 54)
+New solution: 6299578 (64157 backtracks, 139832 nodes, depth 55)
+New solution: 6299569 (64169 backtracks, 139854 nodes, depth 53)
+New solution: 6299545 (64178 backtracks, 139872 nodes, depth 53)
+New solution: 6299530 (64179 backtracks, 139873 nodes, depth 52)
+Optimality gap: [6295504, 6299530[ 0.064 % (64265 backtracks, 139994 nodes)
+New solution: 6299520 (76435 backtracks, 166518 nodes, depth 48)
+New solution: 6299513 (76437 backtracks, 166521 nodes, depth 47)
+Optimality gap: [6295539, 6299513[ 0.063 % (86317 backtracks, 187946 nodes)
+c 2097152 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6295585, 6299513[ 0.062 % (116123 backtracks, 252986 nodes)
+New solution: 6299505 (136011 backtracks, 296548 nodes, depth 49)
+New solution: 6299453 (136027 backtracks, 296582 nodes, depth 51)
+New solution: 6299409 (136030 backtracks, 296587 nodes, depth 50)
+Optimality gap: [6295615, 6299409[ 0.060 % (141717 backtracks, 309029 nodes)
+Optimality gap: [6295660, 6299409[ 0.060 % (189787 backtracks, 414887 nodes)
+New solution: 6299345 (216194 backtracks, 473461 nodes, depth 63)
+c 4194304 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6295694, 6299345[ 0.058 % (237624 backtracks, 520849 nodes)
+Optimality gap: [6295738, 6299345[ 0.057 % (312782 backtracks, 687705 nodes)
+Optimality gap: [6295782, 6299345[ 0.057 % (409497 backtracks, 903068 nodes)
+c 8388608 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6295826, 6299345[ 0.056 % (541950 backtracks, 1198791 nodes)
+Optimality gap: [6295870, 6299345[ 0.055 % (711096 backtracks, 1577631 nodes)
+Optimality gap: [6295914, 6299345[ 0.054 % (1006854 backtracks, 2222237 nodes)
+c 10485760 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6295958, 6299345[ 0.054 % (1520558 backtracks, 3323112 nodes)
+Optimality gap: [6296002, 6299345[ 0.053 % (2133241 backtracks, 4639619 nodes)
+c 20971520 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6296046, 6299345[ 0.052 % (2945269 backtracks, 6388020 nodes)
+Optimality gap: [6296090, 6299345[ 0.052 % (3963271 backtracks, 8584716 nodes)
+Optimality gap: [6296134, 6299345[ 0.051 % (5287893 backtracks, 11448029 nodes)
+New solution: 6299286 (5636440 backtracks, 12202461 nodes, depth 48)
+c 41943040 Bytes allocated for hybrid best-first search open nodes.
+Optimality gap: [6296161, 6299286[ 0.050 % (6277946 backtracks, 13591610 nodes)
+Optimality gap: [6296204, 6299286[ 0.049 % (8172569 backtracks, 17701415 nodes)
+
+Time limit expired... Aborting...

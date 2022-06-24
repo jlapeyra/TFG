@@ -1,0 +1,7 @@
+lb 743645 ub 9152851 before adjustment
+lb 0 ub 8409206 after adjustment
+costs ready
+16 variables 136 functions 743645 lb, 8409206 ub
+Optimal value: 743645
+Real time: 0.404595
+CPU time: 0.38572
