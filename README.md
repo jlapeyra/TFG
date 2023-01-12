@@ -1,6 +1,6 @@
 # TFG
 
-Aquest repositori conté el codi del Treball de Final de Grau de Joan Lapeyra, anomenat "Implementació d'algoritmes d'optimització per al disseny computacional de proteïnes", dirigit per Javier Larrosa, entregat el juny de 2022 a la Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC).
+Aquest repositori conté el codi del Treball de Final de Grau de Joan Lapeyra, anomenat [Implementació d'algoritmes d'optimització per al disseny computacional de proteïnes](https://upcommons.upc.edu/handle/2117/373140), dirigit per Javier Larrosa, entregat el juny de 2022 a la Facultat d'Informàtica de Barcelona (FIB), Universitat Politècnica de Catalunya (UPC).
 
 
 
