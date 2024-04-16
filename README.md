@@ -6,7 +6,7 @@ Aquest repositori conté el codi del Treball de Final de Grau de Joan Lapeyra, a
 
 Contingut principal:
 
-- `wcsp`: Solver per WCSP, implementat en C++
+- [wcsp](`wcsp`): Solver per WCSP, implementat en C++
 - `maxSAT`: Solver per MaxSAT, implementat en Python
 - `wcsp-viewer`: Visualitzador d'instàncies WCSP
 
